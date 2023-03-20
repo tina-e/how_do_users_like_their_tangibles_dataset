@@ -1,0 +1,1808 @@
+,snippet_id,pid,situation,code,object,rank
+0,P09_C_385_398_1440_494,P09,Copyshop,personal object,phone,4
+1,P09_C_385_398_1440_494,P09,Copyshop,slow,phone,4
+2,P09_C_385_398_1440_494,P09,Copyshop,secure,phone,4
+3,P09_C_385_398_1440_494,P09,Copyshop,cable,phone,4
+4,P09_C_385_398_1440_494,P09,Copyshop,insecure,phone,4
+5,P09_C_383_532_2266_615,P09,Copyshop,wireless connection\cloud,key,3
+6,P09_C_369_634_1815_720,P09,Copyshop,comfortable,card,2
+7,P09_C_369_634_1815_720,P09,Copyshop,at hand,card,2
+8,P09_C_369_634_1815_720,P09,Copyshop,place on,card,2
+9,P09_C_363_759_1653_827,P09,Copyshop,place on,watch,1
+10,P09_C_363_759_1653_827,P09,Copyshop,smart,watch,1
+11,P09_C_369_848_1719_923,P09,Copyshop,insert,pen,5
+12,P09_C_369_848_1719_923,P09,Copyshop,no benefit / no added value,pen,5
+13,P09_C_372_955_1367_1089,P09,Copyshop,disposable,tissue,6
+14,P09_C_372_955_1367_1089,P09,Copyshop,no usage / no sense,tissue,6
+15,P09_C_372_955_1367_1089,P09,Copyshop,nontechnical / non-technological,tissue,6
+16,P10_C_151_445_2243_502,P10,Copyshop,hold to,phone,1
+17,P10_C_151_445_2243_502,P10,Copyshop,already functional,phone,1
+18,P10_C_151_445_2243_502,P10,Copyshop,at hand,phone,1
+19,P10_C_151_445_2243_502,P10,Copyshop,wireless connection\cloud,phone,1
+20,P10_C_151_445_2243_502,P10,Copyshop,practical,phone,1
+21,P10_C_176_534_2266_611,P10,Copyshop,nontechnical / non-technological,key,4
+22,P10_C_176_534_2266_611,P10,Copyshop,insert,key,4
+23,P10_C_176_534_2266_611,P10,Copyshop,at hand,key,4
+24,P10_C_187_636_2065_727,P10,Copyshop,insert,card,2
+25,P10_C_187_636_2065_727,P10,Copyshop,at hand,card,2
+26,P10_C_192_752_2070_841,P10,Copyshop,smart,watch,3
+27,P10_C_192_752_2070_841,P10,Copyshop,project,watch,3
+28,P10_C_192_752_2070_841,P10,Copyshop,hold to,watch,3
+29,P10_C_192_752_2070_841,P10,Copyshop,wireless connection\cloud,watch,3
+30,P10_C_192_752_2070_841,P10,Copyshop,known interaction,watch,3
+31,P10_C_185_871_2102_939,P10,Copyshop,not at hand\rarely / never at hand,pen,5
+32,P10_C_185_871_2102_939,P10,Copyshop,uncomfortable,pen,5
+33,P10_C_185_871_2102_939,P10,Copyshop,insert,pen,5
+34,P10_C_192_975_2097_1055,P10,Copyshop,no usage / no sense,tissue,6
+35,P10_C_192_975_2097_1055,P10,Copyshop,not at hand\rarely / never at hand,tissue,6
+36,P10_C_192_975_2097_1055,P10,Copyshop,nontechnical / non-technological,tissue,6
+37,P11_C_358_357_1514_435,P11,Copyshop,known interaction,phone,1
+38,P11_C_358_357_1514_435,P11,Copyshop,wireless connection\messenger,phone,1
+39,P11_C_358_456_1924_527,P11,Copyshop,secure,key,5
+40,P11_C_358_456_1924_527,P11,Copyshop,insert,key,5
+41,P11_C_339_542_1935_616,P11,Copyshop,realisable,card,3
+42,P11_C_339_542_1935_616,P11,Copyshop,insert,card,3
+43,P11_C_339_626_2095_717,P11,Copyshop,smart,watch,2
+44,P11_C_339_626_2095_717,P11,Copyshop,other,watch,2
+45,P11_C_339_626_2095_717,P11,Copyshop,hold to,watch,2
+46,P11_C_339_626_2095_717,P11,Copyshop,realisable,watch,2
+47,P11_C_339_732_2104_820,P11,Copyshop,touch,pen,4
+48,P11_C_339_732_2104_820,P11,Copyshop,pointing,pen,4
+49,P11_C_339_732_2104_820,P11,Copyshop,realisable,pen,4
+50,P11_C_339_732_2104_820,P11,Copyshop,technical / technological,pen,4
+51,P11_C_342_836_2099_921,P11,Copyshop,nontechnical / non-technological,tissue,6
+52,P11_C_342_836_2099_921,P11,Copyshop,wipe,tissue,6
+53,P12_C_287_488_1409_563,P12,Copyshop,place on,phone,2
+54,P12_C_287_488_1409_563,P12,Copyshop,small / handy,phone,2
+55,P12_C_278_589_2221_677,P12,Copyshop,insert,key,4
+56,P12_C_278_589_2221_677,P12,Copyshop,extra steps,key,4
+57,P12_C_278_589_2221_677,P12,Copyshop,at hand,key,4
+58,P12_C_278_589_2221_677,P12,Copyshop,small / handy,key,4
+59,P12_C_278_695_1366_791,P12,Copyshop,at hand,card,1
+60,P12_C_278_695_1366_791,P12,Copyshop,place on,card,1
+61,P12_C_278_695_1366_791,P12,Copyshop,insert,card,1
+62,P12_C_278_695_1366_791,P12,Copyshop,small / handy,card,1
+63,P12_C_278_695_1366_791,P12,Copyshop,additional device needed,card,1
+64,P12_C_278_798_1662_892,P12,Copyshop,hold to,watch,3
+65,P12_C_278_798_1662_892,P12,Copyshop,not at hand\rarely / never at hand,watch,3
+66,P12_C_276_915_1669_1010,P12,Copyshop,extra steps,pen,5
+67,P12_C_276_915_1669_1010,P12,Copyshop,not at hand\rarely / never at hand,pen,5
+68,P12_C_276_915_1669_1010,P12,Copyshop,insert,pen,5
+69,P12_C_281_1019_582_1111,P12,Copyshop,no usage / no sense,tissue,6
+70,P01_C_134_204_1716_292,P01,Copyshop,drag through,phone,1
+71,P01_C_134_204_1716_292,P01,Copyshop,cable,phone,1
+72,P01_C_134_204_1716_292,P01,Copyshop,hold to,phone,1
+73,P01_C_134_204_1716_292,P01,Copyshop,at hand,phone,1
+74,P01_C_153_311_2102_357,P01,Copyshop,hold to,card,4
+75,P01_C_153_311_2102_357,P01,Copyshop,no additional device,card,4
+76,P01_C_153_311_2102_357,P01,Copyshop,insert,card,4
+77,P01_C_153_380_2199_454,P01,Copyshop,turn,key,5
+78,P01_C_153_380_2199_454,P01,Copyshop,insert,key,5
+79,P01_C_153_380_2199_454,P01,Copyshop,original use,key,5
+80,P01_C_153_380_2199_454,P01,Copyshop,at hand,key,5
+81,P01_C_155_470_2212_554,P01,Copyshop,original use,pen,3
+82,P01_C_155_470_2212_554,P01,Copyshop,multifunctional,pen,3
+83,P01_C_155_470_2212_554,P01,Copyshop,tab on object\button,pen,3
+84,P01_C_155_470_2212_554,P01,Copyshop,pointing,pen,3
+85,P01_C_157_580_2226_647,P01,Copyshop,swipe,watch,2
+86,P01_C_157_580_2226_647,P01,Copyshop,no additional device,watch,2
+87,P01_C_151_662_2231_748,P01,Copyshop,breakable / unstable,tissue,6
+88,P01_C_151_662_2231_748,P01,Copyshop,place on,tissue,6
+89,P01_C_151_662_2231_748,P01,Copyshop,imprint,tissue,6
+90,P01_C_151_662_2231_748,P01,Copyshop,disposable,tissue,6
+91,P01_C_151_662_2231_748,P01,Copyshop,unfolded,tissue,6
+92,P13_C_335_664_1729_781,P13,Copyshop,comfortable,phone,1
+93,P13_C_335_664_1729_781,P13,Copyshop,simple,phone,1
+94,P13_C_335_664_1729_781,P13,Copyshop,wireless connection,phone,1
+95,P13_C_332_790_1709_903,P13,Copyshop,insert,key,3
+96,P13_C_333_915_2001_1006,P13,Copyshop,multifunctional,card,2
+97,P13_C_333_915_2001_1006,P13,Copyshop,place on,card,2
+98,P13_C_333_915_2001_1006,P13,Copyshop,original use,card,2
+99,P13_C_333_1018_1997_1112,P13,Copyshop,place on,watch,3
+100,P13_C_333_1018_1997_1112,P13,Copyshop,scan,watch,3
+101,P13_C_337_1128_1999_1225,P13,Copyshop,wipe,pen,5
+102,P13_C_339_1239_2106_1366,P13,Copyshop,insert,tissue,6
+103,P13_C_339_1239_2106_1366,P13,Copyshop,take back,tissue,6
+104,P13_C_339_1239_2106_1366,P13,Copyshop,grab,tissue,6
+105,P13_C_339_1239_2106_1366,P13,Copyshop,wipe,tissue,6
+106,P14_C_327_428_1279_533,P14,Copyshop,wireless connection\cloud,phone,1
+107,P14_C_330_546_1777_647,P14,Copyshop,already functional,key,2
+108,P14_C_330_546_1777_647,P14,Copyshop,insert,key,2
+109,P14_C_332_655_1787_741,P14,Copyshop,additional device needed,card,4
+110,P14_C_332_655_1787_741,P14,Copyshop,drag through,card,4
+111,P14_C_334_751_1789_834,P14,Copyshop,already functional,watch,3
+112,P14_C_334_751_1789_834,P14,Copyshop,smart,watch,3
+113,P14_C_334_751_1789_834,P14,Copyshop,place on,watch,3
+114,P14_C_336_846_1787_933,P14,Copyshop,touch,pen,5
+115,P14_C_336_846_1787_933,P14,Copyshop,pointing,pen,5
+116,P14_C_338_955_1851_1053,P14,Copyshop,nontechnical / non-technological,tissue,6
+117,P14_C_338_955_1851_1053,P14,Copyshop,other original purpose,tissue,6
+118,P14_C_338_955_1851_1053,P14,Copyshop,place on,tissue,6
+119,P15_C_242_542_2057_641,P15,Copyshop,practical,phone,1
+120,P15_C_242_542_2057_641,P15,Copyshop,wireless connection,phone,1
+121,P15_C_246_661_2254_743,P15,Copyshop,original use,key,6
+122,P15_C_246_661_2254_743,P15,Copyshop,insert,key,6
+123,P15_C_256_767_2266_860,P15,Copyshop,simple,card,4
+124,P15_C_256_767_2266_860,P15,Copyshop,practical,card,4
+125,P15_C_256_767_2266_860,P15,Copyshop,fast / quick,card,4
+126,P15_C_256_767_2266_860,P15,Copyshop,place on,card,4
+127,P15_C_256_767_2266_860,P15,Copyshop,comfortable,card,4
+128,P15_C_254_880_2266_973,P15,Copyshop,at hand,watch,2
+129,P15_C_254_880_2266_973,P15,Copyshop,wireless connection,watch,2
+130,P15_C_254_880_2266_973,P15,Copyshop,wearable,watch,2
+131,P15_C_266_991_2266_1086,P15,Copyshop,pointing,pen,3
+132,P15_C_266_991_2266_1086,P15,Copyshop,no extra step,pen,3
+133,P15_C_256_1102_2266_1221,P15,Copyshop,intuitive,tissue,5
+134,P15_C_256_1102_2266_1221,P15,Copyshop,wipe,tissue,5
+135,P15_C_256_1102_2266_1221,P15,Copyshop,impractical / cumbersome,tissue,5
+136,P02_C_171_165_1542_299,P02,Copyshop,technical / technological,phone,1
+137,P02_C_171_165_1542_299,P02,Copyshop,wireless connection\messenger,phone,1
+138,P02_C_171_165_1542_299,P02,Copyshop,cable,phone,1
+139,P02_C_173_322_1467_404,P02,Copyshop,intuitive,card,2
+140,P02_C_173_322_1467_404,P02,Copyshop,place on,card,2
+141,P02_C_180_417_1784_499,P02,Copyshop,hold to,watch,4
+142,P02_C_180_417_1784_499,P02,Copyshop,smart,watch,4
+143,P02_C_180_522_1720_598,P02,Copyshop,realisable,pen,3
+144,P02_C_180_522_1720_598,P02,Copyshop,insert,pen,3
+145,P02_C_164_616_1713_687,P02,Copyshop,place on,key,5
+146,P02_C_157_700_1861_871,P02,Copyshop,secure,tissue,6
+147,P02_C_157_700_1861_871,P02,Copyshop,imprint,tissue,6
+148,P02_C_157_700_1861_871,P02,Copyshop,scan,tissue,6
+149,P03_C_232_296_2060_483,P03,Copyshop,hold to,card,1
+150,P03_C_232_296_2060_483,P03,Copyshop,known interaction,card,1
+151,P03_C_232_296_2060_483,P03,Copyshop,drag through,card,1
+152,P03_C_271_495_2172_590,P03,Copyshop,insert,key,3
+153,P03_C_271_495_2172_590,P03,Copyshop,original use,key,3
+154,P03_C_271_495_2172_590,P03,Copyshop,at hand,key,3
+155,P03_C_271_495_2172_590,P03,Copyshop,secure,key,3
+156,P03_C_271_495_2172_590,P03,Copyshop,turn,key,3
+157,P03_C_255_606_1505_666,P03,Copyshop,no usage / no sense,tissue,6
+158,P03_C_255_682_2181_739,P03,Copyshop,original use,pen,5
+159,P03_C_255_682_2181_739,P03,Copyshop,touch,pen,5
+160,P03_C_255_682_2181_739,P03,Copyshop,writing,pen,5
+161,P03_C_244_754_1368_802,P03,Copyshop,hold to,phone,2
+162,P03_C_262_823_1728_901,P03,Copyshop,hold to,watch,4
+163,P03_C_262_823_1728_901,P03,Copyshop,turn,watch,4
+164,P03_C_262_823_1728_901,P03,Copyshop,tab on object\button,watch,4
+165,P04_C_155_214_1039_301,P04,Copyshop,insert,watch,2
+166,P04_C_155_214_1039_301,P04,Copyshop,cable,watch,2
+167,P04_C_153_328_1042_415,P04,Copyshop,insert,pen,3
+168,P04_C_153_328_1042_415,P04,Copyshop,cable,pen,3
+169,P04_C_146_429_1044_501,P04,Copyshop,place on,key,3
+170,P04_C_146_518_1644_586,P04,Copyshop,additional device needed,card,3
+171,P04_C_146_518_1644_586,P04,Copyshop,place on,card,3
+172,P04_C_143_597_1660_675,P04,Copyshop,disposable,tissue,6
+173,P04_C_143_597_1660_675,P04,Copyshop,place on,tissue,6
+174,P04_C_148_684_1910_763,P04,Copyshop,wireless connection,phone,1
+175,P04_C_148_684_1910_763,P04,Copyshop,wireless connection\cloud,phone,1
+176,P04_C_148_684_1910_763,P04,Copyshop,cable,phone,1
+177,P04_C_148_684_1910_763,P04,Copyshop,already functional,phone,1
+178,P05_C_155_422_1942_520,P05,Copyshop,multifunctional,phone,1
+179,P05_C_155_422_1942_520,P05,Copyshop,wireless connection,phone,1
+180,P05_C_160_534_1807_595,P05,Copyshop,hold to,card,3
+181,P05_C_160_534_1807_595,P05,Copyshop,realisable,card,3
+182,P05_C_160_534_1807_595,P05,Copyshop,original use,card,3
+183,P05_C_167_620_1881_695,P05,Copyshop,tab on object\button,watch,4
+184,P05_C_167_620_1881_695,P05,Copyshop,turn,watch,4
+185,P05_C_167_620_1881_695,P05,Copyshop,smart,watch,4
+186,P05_C_150_711_1187_780,P05,Copyshop,smart,pen,2
+187,P05_C_150_711_1187_780,P05,Copyshop,insert,pen,2
+188,P05_C_137_804_2142_866,P05,Copyshop,impractical / cumbersome,tissue,6
+189,P05_C_137_804_2142_866,P05,Copyshop,writing,tissue,6
+190,P05_C_137_804_2142_866,P05,Copyshop,not realisable,tissue,6
+191,P05_C_137_804_2142_866,P05,Copyshop,original use,tissue,6
+192,P05_C_137_804_2142_866,P05,Copyshop,imprint,tissue,6
+193,P05_C_135_880_828_960,P05,Copyshop,insert,key,5
+194,P06_C_242_185_1172_271,P06,Copyshop,extra steps,phone,1
+195,P06_C_242_185_1172_271,P06,Copyshop,hold to,phone,1
+196,P06_C_242_185_1172_271,P06,Copyshop,photo,phone,1
+197,P06_C_253_290_745_355,P06,Copyshop,hold to,card,2
+198,P06_C_253_290_745_355,P06,Copyshop,known interaction,card,2
+199,P06_C_253_290_745_355,P06,Copyshop,at hand,card,2
+200,P06_C_253_290_745_355,P06,Copyshop,intuitive,card,2
+201,P06_C_253_369_714_431,P06,Copyshop,insert,key,5
+202,P06_C_253_369_714_431,P06,Copyshop,original use,key,5
+203,P06_C_253_369_714_431,P06,Copyshop,turn,key,5
+204,P06_C_257_444_780_501,P06,Copyshop,voice command,watch,3
+205,P06_C_257_444_780_501,P06,Copyshop,synchronised,watch,3
+206,P06_C_257_444_780_501,P06,Copyshop,intuitive,watch,3
+207,P06_C_257_444_780_501,P06,Copyshop,smart,watch,3
+208,P06_C_248_518_770_584,P06,Copyshop,other original purpose,tissue,6
+209,P06_C_248_518_770_584,P06,Copyshop,breakable / unstable,tissue,6
+210,P06_C_248_518_770_584,P06,Copyshop,wipe,tissue,6
+211,P06_C_237_597_900_711,P06,Copyshop,pointing,pen,4
+212,P06_C_237_597_900_711,P06,Copyshop,tab on object\button,pen,4
+213,P07_C_80_246_1594_342,P07,Copyshop,no benefit / no added value,phone,1
+214,P07_C_80_246_1594_342,P07,Copyshop,place on,phone,1
+215,P07_C_80_246_1594_342,P07,Copyshop,cable,phone,1
+216,P07_C_80_246_1594_342,P07,Copyshop,intuitive,phone,1
+217,P07_C_80_246_1594_342,P07,Copyshop,at hand,phone,1
+218,P07_C_75_352_1571_433,P07,Copyshop,additional device needed,key,3
+219,P07_C_75_352_1571_433,P07,Copyshop,other,key,3
+220,P07_C_75_352_1571_433,P07,Copyshop,place on,key,3
+221,P07_C_82_444_913_533,P07,Copyshop,insert,card,4
+222,P07_C_82_444_913_533,P07,Copyshop,additional device needed,card,4
+223,P07_C_82_444_913_533,P07,Copyshop,place on,card,4
+224,P07_C_84_547_824_637,P07,Copyshop,smart,watch,2
+225,P07_C_84_547_824_637,P07,Copyshop,additional device needed,watch,2
+226,P07_C_84_547_824_637,P07,Copyshop,wearable,watch,2
+227,P07_C_84_547_824_637,P07,Copyshop,known interaction,watch,2
+228,P07_C_84_547_824_637,P07,Copyshop,hold to,watch,2
+229,P07_C_87_641_1373_705,P07,Copyshop,place on,pen,3
+230,P07_C_80_714_1727_800,P07,Copyshop,not realisable,tissue,4
+231,P07_C_80_714_1727_800,P07,Copyshop,writing,tissue,4
+232,P07_C_80_714_1727_800,P07,Copyshop,imprint,tissue,4
+233,P08_C_129_382_1736_481,P08,Copyshop,wireless connection\messenger,phone,1
+234,P08_C_129_382_1736_481,P08,Copyshop,wireless connection,phone,1
+235,P08_C_129_382_1736_481,P08,Copyshop,comfortable,phone,1
+236,P08_C_131_489_1704_568,P08,Copyshop,insert,key,5
+237,P08_C_131_489_1704_568,P08,Copyshop,hold to,key,5
+238,P08_C_131_489_1704_568,P08,Copyshop,pos invisible storage,key,5
+239,P08_C_133_576_1861_645,P08,Copyshop,at hand,card,3
+240,P08_C_133_576_1861_645,P08,Copyshop,place on,card,3
+241,P08_C_141_659_1950_728,P08,Copyshop,pos invisible storage,pen,4
+242,P08_C_141_659_1950_728,P08,Copyshop,insert,pen,4
+243,P08_C_141_659_1950_728,P08,Copyshop,at hand,pen,4
+244,P08_C_148_734_1872_810,P08,Copyshop,at hand,watch,2
+245,P08_C_148_734_1872_810,P08,Copyshop,insert,watch,2
+246,P08_C_148_734_1872_810,P08,Copyshop,smart,watch,2
+247,P08_C_154_823_1950_970,P08,Copyshop,unfolded,tissue,6
+248,P08_C_154_823_1950_970,P08,Copyshop,small / handy,tissue,6
+249,P08_C_154_823_1950_970,P08,Copyshop,hold to,tissue,6
+250,P08_C_154_823_1950_970,P08,Copyshop,insecure,tissue,6
+251,P08_C_154_823_1950_970,P08,Copyshop,low value,tissue,6
+252,P08_C_154_823_1950_970,P08,Copyshop,disposable,tissue,6
+253,P30_C_839_21_1620_93,P30,Copyshop,place on,,
+254,P30_C_215_178_1728_296,P30,Copyshop,impractical / cumbersome,phone,6
+255,P30_C_215_178_1728_296,P30,Copyshop,wireless connection\messenger,phone,6
+256,P30_C_215_178_1728_296,P30,Copyshop,extra steps,phone,6
+257,P30_C_215_178_1728_296,P30,Copyshop,known interaction,phone,6
+258,P30_C_215_178_1728_296,P30,Copyshop,cable,phone,6
+259,P30_C_210_304_1193_347,P30,Copyshop,practical,key,4
+260,P30_C_210_304_1193_347,P30,Copyshop,insert,key,4
+261,P30_C_210_304_1193_347,P30,Copyshop,at hand,key,4
+262,P30_C_210_304_1193_347,P30,Copyshop,place on,key,4
+263,P30_C_211_373_1013_462,P30,Copyshop,practical,card,2
+264,P30_C_211_373_1013_462,P30,Copyshop,place on,card,2
+265,P30_C_199_471_996_521,P30,Copyshop,wireless connection,watch,1
+266,P30_C_199_471_996_521,P30,Copyshop,place on,watch,1
+267,P30_C_218_537_878_599,P30,Copyshop,insert,pen,5
+268,P30_C_215_605_1662_750,P30,Copyshop,insert,tissue,3
+269,P30_C_215_605_1662_750,P30,Copyshop,place on,tissue,3
+270,P16_C_173_90_1590_146,P16,Copyshop,wireless connection,phone,1
+271,P16_C_173_90_1590_146,P16,Copyshop,at hand,phone,1
+272,P16_C_169_167_1043_242,P16,Copyshop,turn,key,3
+273,P16_C_169_167_1043_242,P16,Copyshop,insert,key,3
+274,P16_C_125_252_1426_325,P16,Copyshop,no usage / no sense,card,5
+275,P16_C_125_252_1426_325,P16,Copyshop,scan,card,5
+276,P16_C_164_339_1391_412,P16,Copyshop,scan,watch,2
+277,P16_C_160_416_1124_477,P16,Copyshop,insert,pen,4
+278,P16_C_160_416_1124_477,P16,Copyshop,writing,pen,4
+279,P16_C_169_485_377_529,P16,Copyshop,no usage / no sense,tissue,6
+280,P17_C_72_74_1428_139,P17,Copyshop,simple,phone,1
+281,P17_C_72_74_1428_139,P17,Copyshop,at hand,phone,1
+282,P17_C_72_74_1428_139,P17,Copyshop,wireless connection,phone,1
+283,P17_C_67_151_1431_228,P17,Copyshop,low compatibility,key,4
+284,P17_C_67_151_1431_228,P17,Copyshop,grab,key,4
+285,P17_C_67_151_1431_228,P17,Copyshop,high compatibility,key,4
+286,P17_C_67_151_1431_228,P17,Copyshop,insert,key,4
+287,P17_C_67_151_1431_228,P17,Copyshop,turn,key,4
+288,P17_C_76_233_1431_295,P17,Copyshop,hold to,card,3
+289,P17_C_76_233_1431_295,P17,Copyshop,realisable,card,3
+290,P17_C_70_304_978_359,P17,Copyshop,at hand,watch,2
+291,P17_C_70_304_978_359,P17,Copyshop,hold to,watch,2
+292,P17_C_70_304_978_359,P17,Copyshop,wireless connection,watch,2
+293,P17_C_74_369_1122_446,P17,Copyshop,not at hand\must have at hand,pen,5
+294,P17_C_74_369_1122_446,P17,Copyshop,additional device needed,pen,5
+295,P17_C_74_369_1122_446,P17,Copyshop,writing,pen,5
+296,P17_C_74_369_1122_446,P17,Copyshop,insert,pen,5
+297,P17_C_74_450_808_499,P17,Copyshop,hold to,tissue,6
+298,P17_C_74_450_808_499,P17,Copyshop,not realisable,tissue,6
+299,P18_C_75_78_1616_184,P18,Copyshop,known interaction,phone,1
+300,P18_C_75_78_1616_184,P18,Copyshop,place on,phone,1
+301,P18_C_75_78_1616_184,P18,Copyshop,multifunctional,phone,1
+302,P18_C_77_192_1612_251,P18,Copyshop,additional device needed,key,5
+303,P18_C_77_192_1612_251,P18,Copyshop,no benefit / no added value,key,5
+304,P18_C_77_261_1057_324,P18,Copyshop,place on,card,4
+305,P18_C_78_327_1636_416,P18,Copyshop,wireless connection,watch,2
+306,P18_C_78_327_1636_416,P18,Copyshop,place on,watch,2
+307,P18_C_76_426_1628_606,P18,Copyshop,multifunctional,pen,3
+308,P18_C_76_426_1628_606,P18,Copyshop,pointing,pen,3
+309,P18_C_76_426_1628_606,P18,Copyshop,touch,pen,3
+310,P18_C_76_426_1628_606,P18,Copyshop,hold to,pen,3
+311,P18_C_29_504_59_563,P18,Copyshop,no usage / no sense,tissue,6
+312,P19_C_34_62_1749_162,P19,Copyshop,wireless connection,phone,1
+313,P19_C_34_62_1749_162,P19,Copyshop,simple,phone,1
+314,P19_C_34_62_1749_162,P19,Copyshop,at hand,phone,1
+315,P19_C_50_179_1235_233,P19,Copyshop,place on,key,4
+316,P19_C_50_179_1235_233,P19,Copyshop,at hand,key,4
+317,P19_C_46_245_1738_338,P19,Copyshop,hold to,card,3
+318,P19_C_46_245_1738_338,P19,Copyshop,at hand,card,3
+319,P19_C_34_345_1705_406,P19,Copyshop,wireless connection,watch,2
+320,P19_C_34_345_1705_406,P19,Copyshop,place on,watch,2
+321,P19_C_38_412_1753_486,P19,Copyshop,insert,pen,5
+322,P19_C_38_412_1753_486,P19,Copyshop,not at hand\must have at hand,pen,5
+323,P19_C_38_490_1629_599,P19,Copyshop,original use,tissue,6
+324,P19_C_38_490_1629_599,P19,Copyshop,disposable,tissue,6
+325,P19_C_38_490_1629_599,P19,Copyshop,place on,tissue,6
+326,P20_C_73_95_562_147,P20,Copyshop,cable,phone,2
+327,P20_C_78_159_1549_259,P20,Copyshop,low compatibility,key,5
+328,P20_C_78_159_1549_259,P20,Copyshop,insert,key,5
+329,P20_C_78_159_1549_259,P20,Copyshop,secure,key,5
+330,P20_C_82_265_681_321,P20,Copyshop,insert,card,4
+331,P20_C_82_265_681_321,P20,Copyshop,additional device needed,card,4
+332,P20_C_78_334_953_396,P20,Copyshop,wireless connection,watch,3
+333,P20_C_77_405_1523_571,P20,Copyshop,insert,pen,1
+334,P20_C_77_405_1523_571,P20,Copyshop,wireless connection,pen,1
+335,P20_C_77_405_1523_571,P20,Copyshop,tab on object\button,pen,1
+336,P20_C_72_574_1194_630,P20,Copyshop,no benefit / no added value,tissue,6
+337,P20_C_72_574_1194_630,P20,Copyshop,imprint,tissue,6
+338,P20_C_72_574_1194_630,P20,Copyshop,scan,tissue,6
+339,P21_C_740_9_863_39,P21,Copyshop,voice command,,
+340,P21_C_353_16_712_58,P21,Copyshop,writing,,
+341,P21_C_172_75_1304_192,P21,Copyshop,wireless connection,phone,1
+342,P21_C_172_75_1304_192,P21,Copyshop,at hand,phone,1
+343,P21_C_172_75_1304_192,P21,Copyshop,multifunctional,phone,1
+344,P21_C_172_75_1304_192,P21,Copyshop,photo,phone,1
+345,P21_C_172_194_1186_246,P21,Copyshop,insert,key,6
+346,P21_C_172_194_1186_246,P21,Copyshop,other\locker / deposit,key,6
+347,P21_C_174_249_1304_372,P21,Copyshop,pointing,card,2
+348,P21_C_174_249_1304_372,P21,Copyshop,place on,card,2
+349,P21_C_174_249_1304_372,P21,Copyshop,swipe,card,2
+350,P21_C_9_355_160_599,P21,Copyshop,pointing,pen,3
+351,P21_C_9_355_160_599,P21,Copyshop,writing,pen,3
+352,P21_C_253_375_1162_457,P21,Copyshop,multifunctional,watch,5
+353,P21_C_253_375_1162_457,P21,Copyshop,hold to,watch,5
+354,P21_C_178_465_1300_613,P21,Copyshop,no benefit / no added value,tissue,4
+355,P21_C_178_465_1300_613,P21,Copyshop,place on,tissue,4
+356,P21_C_178_465_1300_613,P21,Copyshop,writing,tissue,4
+357,P22_C_69_61_1574_155,P22,Copyshop,known interaction,phone,1
+358,P22_C_69_61_1574_155,P22,Copyshop,cable,phone,1
+359,P22_C_76_170_1572_237,P22,Copyshop,turn,key,5
+360,P22_C_76_170_1572_237,P22,Copyshop,original use,key,5
+361,P22_C_76_170_1572_237,P22,Copyshop,insert,key,5
+362,P22_C_78_246_819_327,P22,Copyshop,insert,card,3
+363,P22_C_78_246_819_327,P22,Copyshop,known interaction,card,3
+364,P22_C_74_336_821_397,P22,Copyshop,hold to,watch,2
+365,P22_C_74_336_821_397,P22,Copyshop,known interaction,watch,2
+366,P22_C_74_407_458_478,P22,Copyshop,insert,pen,4
+367,P22_C_74_487_1593_632,P22,Copyshop,shake,tissue,6
+368,P22_C_74_487_1593_632,P22,Copyshop,hologram,tissue,6
+369,P22_C_74_487_1593_632,P22,Copyshop,wipe,tissue,6
+370,P22_C_74_487_1593_632,P22,Copyshop,not realisable,tissue,6
+371,P23_C_73_51_1690_263,P23,Copyshop,multifunctional,phone,1
+372,P23_C_73_51_1690_263,P23,Copyshop,impractical / cumbersome,phone,1
+373,P23_C_73_51_1690_263,P23,Copyshop,additional device needed,phone,1
+374,P23_C_73_51_1690_263,P23,Copyshop,cable,phone,1
+375,P23_C_73_51_1690_263,P23,Copyshop,at hand,phone,1
+376,P23_C_73_51_1690_263,P23,Copyshop,wireless connection,phone,1
+377,P23_C_73_51_1690_263,P23,Copyshop,place on,phone,1
+378,P23_C_75_267_918_330,P23,Copyshop,place on,key,2
+379,P23_C_75_267_918_330,P23,Copyshop,at hand,key,2
+380,P23_C_75_340_1141_413,P23,Copyshop,place on,card,3
+381,P23_C_79_428_1690_519,P23,Copyshop,not at hand\must have at hand,watch,4
+382,P23_C_79_428_1690_519,P23,Copyshop,hold to,watch,4
+383,P23_C_60_524_1670_584,P23,Copyshop,at hand depending on location,pen,5
+384,P23_C_60_524_1670_584,P23,Copyshop,hold to,pen,5
+385,P23_C_60_524_1670_584,P23,Copyshop,insert,pen,5
+386,P23_C_60_524_1670_584,P23,Copyshop,not at hand\must have at hand,pen,5
+387,P23_C_87_596_1645_721,P23,Copyshop,neg invisible storage,tissue,6
+388,P23_C_87_596_1645_721,P23,Copyshop,disposable,tissue,6
+389,P23_C_87_596_1645_721,P23,Copyshop,unintuitive,tissue,6
+390,P23_C_87_596_1645_721,P23,Copyshop,place on,tissue,6
+391,P23_C_87_596_1645_721,P23,Copyshop,low value,tissue,6
+392,P23_C_87_596_1645_721,P23,Copyshop,other original purpose,tissue,6
+393,P24_C_589_21_1640_114,P24,Copyshop,place on,,
+394,P24_C_589_21_1640_114,P24,Copyshop,hold to,,
+395,P24_C_220_127_1569_239,P24,Copyshop,wireless connection\messenger,phone,1
+396,P24_C_220_127_1569_239,P24,Copyshop,wireless connection,phone,1
+397,P24_C_220_127_1569_239,P24,Copyshop,place on,phone,1
+398,P24_C_225_248_1072_300,P24,Copyshop,at hand,key,2
+399,P24_C_225_248_1072_300,P24,Copyshop,place on,key,2
+400,P24_C_220_311_1731_394,P24,Copyshop,additional device needed,card,5
+401,P24_C_220_311_1731_394,P24,Copyshop,other original purpose,card,5
+402,P24_C_220_311_1731_394,P24,Copyshop,place on,card,5
+403,P24_C_1_401_1629_473,P24,Copyshop,hold to,watch,3
+404,P24_C_1_401_1629_473,P24,Copyshop,wearable,watch,3
+405,P24_C_1_401_1629_473,P24,Copyshop,wireless connection,watch,3
+406,P24_C_1_401_1629_473,P24,Copyshop,not at hand\must have at hand,watch,3
+407,P24_C_2_482_1492_571,P24,Copyshop,hold to,pen,4
+408,P24_C_2_482_1492_571,P24,Copyshop,magnetically attached,pen,4
+409,P24_C_2_482_1492_571,P24,Copyshop,wireless connection,pen,4
+410,P24_C_2_482_1492_571,P24,Copyshop,multifunctional,pen,4
+411,P24_C_183_577_1102_699,P24,Copyshop,unfolded,tissue,6
+412,P24_C_183_577_1102_699,P24,Copyshop,uncomfortable,tissue,6
+413,P24_C_183_577_1102_699,P24,Copyshop,tab on object\button,tissue,6
+414,P24_C_183_577_1102_699,P24,Copyshop,slow,tissue,6
+415,P24_C_183_577_1102_699,P24,Copyshop,writing,tissue,6
+416,P25_C_28_47_1068_149,P25,Copyshop,multifunctional,phone,1
+417,P25_C_28_47_1068_149,P25,Copyshop,high compatibility,phone,1
+418,P25_C_28_47_1068_149,P25,Copyshop,at hand,phone,1
+419,P25_C_28_47_1068_149,P25,Copyshop,wireless connection,phone,1
+420,P25_C_28_152_1568_248,P25,Copyshop,secure,key,5
+421,P25_C_28_152_1568_248,P25,Copyshop,insert,key,5
+422,P25_C_34_252_1438_329,P25,Copyshop,place on,card,3
+423,P25_C_34_252_1438_329,P25,Copyshop,at hand,card,3
+424,P25_C_32_331_1156_414,P25,Copyshop,wireless connection,watch,2
+425,P25_C_32_331_1156_414,P25,Copyshop,multifunctional,watch,2
+426,P25_C_32_331_1156_414,P25,Copyshop,realisable,watch,2
+427,P25_C_30_417_1568_500,P25,Copyshop,magnetically attached,pen,3
+428,P25_C_30_417_1568_500,P25,Copyshop,tab on object\button,pen,3
+429,P25_C_30_417_1568_500,P25,Copyshop,wireless connection,pen,3
+430,P25_C_36_506_1038_604,P25,Copyshop,fun / innovative,tissue,5
+431,P25_C_36_506_1038_604,P25,Copyshop,place on,tissue,5
+432,P25_C_36_506_1038_604,P25,Copyshop,foldable / deformable,tissue,5
+433,P26_C_67_74_719_145,P26,Copyshop,wireless connection\messenger,phone,1
+434,P26_C_67_74_719_145,P26,Copyshop,known interaction,phone,1
+435,P26_C_67_74_719_145,P26,Copyshop,wireless connection,phone,1
+436,P26_C_71_166_1591_250,P26,Copyshop,low compatibility,key,5
+437,P26_C_71_166_1591_250,P26,Copyshop,insert,key,5
+438,P26_C_71_166_1591_250,P26,Copyshop,secure,key,5
+439,P26_C_69_258_1007_305,P26,Copyshop,insert,card,2
+440,P26_C_69_258_1007_305,P26,Copyshop,known interaction,card,2
+441,P26_C_67_332_652_399,P26,Copyshop,known interaction,watch,3
+442,P26_C_67_332_652_399,P26,Copyshop,wireless connection,watch,3
+443,P26_C_71_410_805_490,P26,Copyshop,insert,pen,4
+444,P26_C_71_410_805_490,P26,Copyshop,low compatibility,pen,4
+445,P26_C_74_494_962_551,P26,Copyshop,writing,tissue,6
+446,P26_C_74_494_962_551,P26,Copyshop,disposable,tissue,6
+447,P27_C_73_109_1409_192,P27,Copyshop,wireless connection\messenger,phone,1
+448,P27_C_73_109_1409_192,P27,Copyshop,known interaction,phone,1
+449,P27_C_73_109_1409_192,P27,Copyshop,simple,phone,1
+450,P27_C_73_109_1409_192,P27,Copyshop,additional setting / functions,phone,1
+451,P27_C_73_196_1455_271,P27,Copyshop,secure,key,5
+452,P27_C_73_196_1455_271,P27,Copyshop,additional device needed,key,5
+453,P27_C_75_278_1589_349,P27,Copyshop,known interaction,card,3
+454,P27_C_75_278_1589_349,P27,Copyshop,scan,card,3
+455,P27_C_73_361_877_445,P27,Copyshop,known interaction,watch,2
+456,P27_C_73_361_877_445,P27,Copyshop,wireless connection,watch,2
+457,P27_C_71_451_1741_518,P27,Copyshop,tab on object\button,pen,4
+458,P27_C_71_451_1741_518,P27,Copyshop,wireless connection,pen,4
+459,P27_C_71_451_1741_518,P27,Copyshop,scan,pen,4
+460,P27_C_71_536_1056_610,P27,Copyshop,place on,tissue,6
+461,P27_C_71_536_1056_610,P27,Copyshop,tab on object,tissue,6
+462,P28_C_109_86_536_163,P28,Copyshop,wireless connection,phone,2
+463,P28_C_106_170_974_248,P28,Copyshop,intuitive,key,4
+464,P28_C_106_170_974_248,P28,Copyshop,insert,key,4
+465,P28_C_104_255_639_319,P28,Copyshop,insert,card,5
+466,P28_C_104_255_639_319,P28,Copyshop,wireless connection\cloud,card,5
+467,P28_C_104_333_568_408,P28,Copyshop,wireless connection,watch,1
+468,P28_C_104_333_568_408,P28,Copyshop,fast / quick,watch,1
+469,P28_C_110_420_1268_500,P28,Copyshop,extra steps,pen,3
+470,P28_C_110_420_1268_500,P28,Copyshop,pointing,pen,3
+471,P28_C_110_420_1268_500,P28,Copyshop,not at hand\must have at hand,pen,3
+472,P28_C_110_420_1268_500,P28,Copyshop,additional device needed,pen,3
+473,P28_C_110_512_1295_568,P28,Copyshop,wireless connection\cloud,tissue,6
+474,P29_C_61_85_1396_160,P29,Copyshop,place on,phone,1
+475,P29_C_61_85_1396_160,P29,Copyshop,cable,phone,1
+476,P29_C_61_85_1396_160,P29,Copyshop,wireless connection\cloud,phone,1
+477,P29_C_61_85_1396_160,P29,Copyshop,known interaction,phone,1
+478,P29_C_63_165_1649_257,P29,Copyshop,place on,key,5
+479,P29_C_63_165_1649_257,P29,Copyshop,no additional device,key,5
+480,P29_C_63_261_1410_358,P29,Copyshop,realisable,card,3
+481,P29_C_63_261_1410_358,P29,Copyshop,place on,card,3
+482,P29_C_63_261_1410_358,P29,Copyshop,high compatibility,card,3
+483,P29_C_59_364_1139_423,P29,Copyshop,wearable,watch,2
+484,P29_C_59_364_1139_423,P29,Copyshop,at hand,watch,2
+485,P29_C_59_364_1139_423,P29,Copyshop,hold to,watch,2
+486,P29_C_63_427_1633_506,P29,Copyshop,other original purpose,pen,3
+487,P29_C_63_427_1633_506,P29,Copyshop,at hand,pen,3
+488,P29_C_63_427_1633_506,P29,Copyshop,not at hand\must have at hand,pen,3
+489,P29_C_63_427_1633_506,P29,Copyshop,magnetically attached,pen,3
+490,P29_C_52_517_1636_574,P29,Copyshop,foldable / deformable,tissue,6
+491,P29_C_52_517_1636_574,P29,Copyshop,place on,tissue,6
+492,P29_C_52_517_1636_574,P29,Copyshop,not realisable,tissue,6
+493,P09_T_360_168_1440_278,P09,TV,wireless connection,phone,3
+494,P09_T_360_168_1440_278,P09,TV,known interaction,phone,3
+495,P09_T_359_290_1458_393,P09,TV,secure,key,5
+496,P09_T_363_399_1235_469,P09,TV,secure,card,4
+497,P09_T_359_483_957_572,P09,TV,swipe,watch,1
+498,P09_T_359_580_2147_673,P09,TV,pointing,pen,2
+499,P09_T_359_580_2147_673,P09,TV,tab on object\button,pen,2
+500,P09_T_359_580_2147_673,P09,TV,no additional device,pen,2
+501,P09_T_359_580_2147_673,P09,TV,secure,pen,2
+502,P09_T_359_580_2147_673,P09,TV,pos invisible storage,pen,2
+503,P09_T_342_683_596_782,P09,TV,no usage / no sense,tissue,6
+504,P01_T_91_81_1861_173,P01,TV,simple,phone,1
+505,P01_T_91_81_1861_173,P01,TV,wireless connection,phone,1
+506,P01_T_91_81_1861_173,P01,TV,no additional device,phone,1
+507,P01_T_91_81_1861_173,P01,TV,cable,phone,1
+508,P01_T_103_191_1394_260,P01,TV,swipe,watch,2
+509,P01_T_103_191_1394_260,P01,TV,wireless connection,watch,2
+510,P01_T_109_274_1474_379,P01,TV,pointing,pen,3
+511,P01_T_109_274_1474_379,P01,TV,swipe,pen,3
+512,P01_T_109_274_1474_379,P01,TV,tab on object\button,pen,3
+513,P01_T_109_274_1474_379,P01,TV,wireless connection,pen,3
+514,P01_T_109_274_1474_379,P01,TV,encircle,pen,3
+515,P01_T_113_405_1259_514,P01,TV,uncomfortable,key,6
+516,P01_T_113_405_1259_514,P01,TV,insert,key,6
+517,P01_T_113_405_1259_514,P01,TV,additional device needed,key,6
+518,P01_T_117_534_1599_598,P01,TV,uncomfortable,card,5
+519,P01_T_117_534_1599_598,P01,TV,hold to,card,5
+520,P01_T_117_534_1599_598,P01,TV,additional device needed,card,5
+521,P01_T_113_655_1696_840,P01,TV,tab on object,tissue,4
+522,P01_T_113_655_1696_840,P01,TV,unfolded,tissue,4
+523,P01_T_113_655_1696_840,P01,TV,wireless connection,tissue,4
+524,P10_T_187_114_1568_207,P10,TV,wireless connection,phone,1
+525,P10_T_187_114_1568_207,P10,TV,no additional device,phone,1
+526,P10_T_187_114_1568_207,P10,TV,at hand,phone,1
+527,P10_T_189_219_1628_317,P10,TV,not at hand\must have at hand,key,4
+528,P10_T_189_219_1628_317,P10,TV,insert,key,4
+529,P10_T_187_329_1433_422,P10,TV,hold to,card,3
+530,P10_T_187_329_1433_422,P10,TV,not at hand\must have at hand,card,3
+531,P10_T_187_329_1433_422,P10,TV,insert,card,3
+532,P10_T_193_444_1433_539,P10,TV,not at hand\must have at hand,watch,2
+533,P10_T_193_444_1433_539,P10,TV,not at hand\rarely / never at hand,watch,2
+534,P10_T_193_444_1433_539,P10,TV,hold to,watch,2
+535,P10_T_166_561_1014_648,P10,TV,impractical / cumbersome,pen,5
+536,P10_T_166_561_1014_648,P10,TV,insert,pen,5
+537,P10_T_175_659_1016_748,P10,TV,hold to,tissue,6
+538,P11_T_338_144_1482_210,P11,TV,wireless connection,phone,3
+539,P11_T_338_144_1482_210,P11,TV,already functional,phone,3
+540,P11_T_328_238_1168_314,P11,TV,uncomfortable,key,5
+541,P11_T_328_238_1168_314,P11,TV,insert,key,5
+542,P11_T_324_329_1116_414,P11,TV,simple,card,4
+543,P11_T_324_329_1116_414,P11,TV,scan,card,4
+544,P11_T_324_329_1116_414,P11,TV,place on,card,4
+545,P11_T_324_329_1116_414,P11,TV,uncomfortable,card,4
+546,P11_T_322_426_1345_511,P11,TV,synchronised,watch,1
+547,P11_T_322_426_1345_511,P11,TV,hologram,watch,1
+548,P11_T_322_426_1345_511,P11,TV,comfortable,watch,1
+549,P11_T_302_528_1440_616,P11,TV,fast / quick,pen,2
+550,P11_T_302_528_1440_616,P11,TV,comfortable,pen,2
+551,P11_T_302_528_1440_616,P11,TV,pointing,pen,2
+552,P11_T_310_638_2000_776,P11,TV,object defect after single use,tissue,6
+553,P11_T_310_638_2000_776,P11,TV,wipe,tissue,6
+554,P12_T_345_106_1814_227,P12,TV,known interaction,phone,2
+555,P12_T_345_106_1814_227,P12,TV,wireless connection\messenger,phone,2
+556,P12_T_345_106_1814_227,P12,TV,place on,phone,2
+557,P12_T_349_236_1212_344,P12,TV,small / handy,key,4
+558,P12_T_349_236_1212_344,P12,TV,insert,key,4
+559,P12_T_354_355_1497_442,P12,TV,simple,card,5
+560,P12_T_354_355_1497_442,P12,TV,place on,card,5
+561,P12_T_342_457_1714_549,P12,TV,no additional device,watch,1
+562,P12_T_342_457_1714_549,P12,TV,wireless connection\messenger,watch,1
+563,P12_T_342_457_1714_549,P12,TV,smart,watch,1
+564,P12_T_345_558_1679_629,P12,TV,small / handy,pen,3
+565,P12_T_345_558_1679_629,P12,TV,at hand depending on location,pen,3
+566,P12_T_345_558_1679_629,P12,TV,insert,pen,3
+567,P12_T_351_650_1846_742,P12,TV,simple,tissue,6
+568,P12_T_351_650_1846_742,P12,TV,scan,tissue,6
+569,P12_T_351_650_1846_742,P12,TV,hold to,tissue,6
+570,P13_T_335_136_1084_248,P13,TV,extra steps,phone,2
+571,P13_T_335_136_1084_248,P13,TV,wireless connection,phone,2
+572,P13_T_335_136_1084_248,P13,TV,impractical / cumbersome,phone,2
+573,P13_T_347_260_1282_340,P13,TV,impractical / cumbersome,key,4
+574,P13_T_347_260_1282_340,P13,TV,insert,key,4
+575,P13_T_347_356_1367_463,P13,TV,multifunctional,card,4
+576,P13_T_347_356_1367_463,P13,TV,place on,card,4
+577,P13_T_351_472_1364_545,P13,TV,impractical / cumbersome,watch,3
+578,P13_T_351_472_1364_545,P13,TV,extra steps,watch,3
+579,P13_T_351_472_1364_545,P13,TV,wireless connection,watch,3
+580,P13_T_356_559_993_650,P13,TV,fun / innovative,pen,1
+581,P13_T_356_559_993_650,P13,TV,swipe,pen,1
+582,P13_T_361_666_1472_767,P13,TV,swipe,tissue,4
+583,P13_T_361_666_1472_767,P13,TV,impractical / cumbersome,tissue,4
+584,P14_T_362_133_1560_237,P14,TV,fast / quick,phone,2
+585,P14_T_362_133_1560_237,P14,TV,touch,phone,2
+586,P14_T_362_133_1560_237,P14,TV,comfortable,phone,2
+587,P14_T_362_133_1560_237,P14,TV,wireless connection,phone,2
+588,P14_T_348_254_1760_352,P14,TV,slow,key,6
+589,P14_T_348_254_1760_352,P14,TV,insert,key,6
+590,P14_T_348_254_1760_352,P14,TV,uncomfortable,key,6
+591,P14_T_348_254_1760_352,P14,TV,additional device needed,key,6
+592,P14_T_356_366_1448_452,P14,TV,fast / quick,card,4
+593,P14_T_356_366_1448_452,P14,TV,wireless connection,card,4
+594,P14_T_356_366_1448_452,P14,TV,uncomfortable,card,4
+595,P14_T_356_366_1448_452,P14,TV,touch,card,4
+596,P14_T_356_466_1226_566,P14,TV,wireless connection,watch,3
+597,P14_T_356_466_1226_566,P14,TV,fast / quick,watch,3
+598,P14_T_356_466_1226_566,P14,TV,uncomfortable,watch,3
+599,P14_T_356_466_1226_566,P14,TV,touch,watch,3
+600,P14_T_350_578_2020_662,P14,TV,pointing,pen,1
+601,P14_T_350_578_2020_662,P14,TV,swipe,pen,1
+602,P14_T_350_578_2020_662,P14,TV,comfortable,pen,1
+603,P14_T_350_578_2020_662,P14,TV,fast / quick,pen,1
+604,P14_T_339_675_1373_803,P14,TV,wireless connection,tissue,5
+605,P14_T_339_675_1373_803,P14,TV,unfolded,tissue,5
+606,P14_T_339_675_1373_803,P14,TV,comfortable,tissue,5
+607,P14_T_339_675_1373_803,P14,TV,fast / quick,tissue,5
+608,P15_T_278_101_778_188,P15,TV,wireless connection,phone,2
+609,P15_T_274_202_2193_298,P15,TV,turn,key,6
+610,P15_T_274_202_2193_298,P15,TV,insert,key,6
+611,P15_T_274_202_2193_298,P15,TV,original use,key,6
+612,P15_T_274_313_1613_413,P15,TV,place on,card,4
+613,P15_T_274_313_1613_413,P15,TV,hold to,card,4
+614,P15_T_274_422_1291_507,P15,TV,wireless connection,watch,3
+615,P15_T_274_422_1291_507,P15,TV,touch,watch,3
+616,P15_T_274_520_2108_609,P15,TV,tab on object,pen,1
+617,P15_T_274_520_2108_609,P15,TV,pointing,pen,1
+618,P15_T_274_520_2108_609,P15,TV,no extra step,pen,1
+619,P15_T_274_618_1538_700,P15,TV,touch,tissue,5
+620,P15_T_274_618_1538_700,P15,TV,hold to,tissue,5
+621,P02_T_135_143_1049_234,P02,TV,cable,phone,1
+622,P02_T_135_143_1049_234,P02,TV,wireless connection,phone,1
+623,P02_T_135_143_1049_234,P02,TV,no benefit / no added value,phone,1
+624,P02_T_137_250_1239_328,P02,TV,insert,card,3
+625,P02_T_137_250_1239_328,P02,TV,no additional device,card,3
+626,P02_T_137_250_1239_328,P02,TV,intuitive,card,3
+627,P02_T_137_338_1196_417,P02,TV,additional device needed,pen,4
+628,P02_T_137_338_1196_417,P02,TV,insert,pen,4
+629,P02_T_137_338_1196_417,P02,TV,intuitive,pen,4
+630,P02_T_141_421_1261_477,P02,TV,known interaction,watch,2
+631,P02_T_141_421_1261_477,P02,TV,no benefit / no added value,watch,2
+632,P02_T_141_421_1261_477,P02,TV,touch,watch,2
+633,P02_T_141_421_1261_477,P02,TV,place on,watch,2
+634,P02_T_141_421_1261_477,P02,TV,intuitive,watch,2
+635,P02_T_139_502_2050_572,P02,TV,original use,key,5
+636,P02_T_139_502_2050_572,P02,TV,turn,key,5
+637,P02_T_139_502_2050_572,P02,TV,insert,key,5
+638,P02_T_119_590_1486_689,P02,TV,hold to,tissue,6
+639,P02_T_119_590_1486_689,P02,TV,place on,tissue,6
+640,P03_T_236_136_1292_285,P03,TV,impractical / cumbersome,phone,2
+641,P03_T_236_136_1292_285,P03,TV,photo,phone,2
+642,P03_T_236_136_1292_285,P03,TV,extra steps,phone,2
+643,P03_T_236_136_1292_285,P03,TV,swipe,phone,2
+644,P03_T_228_299_919_406,P03,TV,pointing,pen,1
+645,P03_T_228_299_919_406,P03,TV,fast / quick,pen,1
+646,P03_T_210_416_951_515,P03,TV,uncomfortable,key,5
+647,P03_T_210_416_951_515,P03,TV,insert,key,5
+648,P03_T_208_523_951_600,P03,TV,drag through,card,5
+649,P03_T_208_523_951_600,P03,TV,uncomfortable,card,5
+650,P03_T_210_610_1014_704,P03,TV,wipe,tissue,3
+651,P03_T_210_610_1014_704,P03,TV,unintuitive,tissue,3
+652,P03_T_199_719_1032_804,P03,TV,tab on object\button,watch,3
+653,P03_T_199_719_1032_804,P03,TV,wireless connection,watch,3
+654,P04_T_143_134_1458_219,P04,TV,swipe,watch,5
+655,P04_T_143_134_1458_219,P04,TV,no additional device,watch,5
+656,P04_T_143_134_1458_219,P04,TV,wireless connection,watch,5
+657,P04_T_145_236_1704_326,P04,TV,insert,pen,3
+658,P04_T_145_236_1704_326,P04,TV,pointing,pen,3
+659,P04_T_145_236_1704_326,P04,TV,tab on object,pen,3
+660,P04_T_145_236_1704_326,P04,TV,tab on object\button,pen,3
+661,P04_T_145_236_1704_326,P04,TV,unintuitive,pen,3
+662,P04_T_141_342_1476_401,P04,TV,place on,key,3
+663,P04_T_141_342_1476_401,P04,TV,additional device needed,key,3
+664,P04_T_135_413_1331_473,P04,TV,place on,card,2
+665,P04_T_131_485_1116_556,P04,TV,not realisable,tissue,5
+666,P04_T_131_485_1116_556,P04,TV,place on,tissue,5
+667,P04_T_123_562_2085_655,P04,TV,wireless connection,phone,1
+668,P04_T_123_562_2085_655,P04,TV,already functional,phone,1
+669,P04_T_123_562_2085_655,P04,TV,multifunctional,phone,1
+670,P04_T_123_562_2085_655,P04,TV,place on,phone,1
+671,P04_T_123_562_2085_655,P04,TV,cable,phone,1
+672,P05_T_153_138_463_212,P05,TV,multifunctional,phone,1
+673,P05_T_153_138_463_212,P05,TV,wireless connection,phone,1
+674,P05_T_155_221_495_279,P05,TV,wireless connection,watch,2
+675,P05_T_155_221_495_279,P05,TV,smart,watch,2
+676,P05_T_157_291_427_347,P05,TV,insert,key,5
+677,P05_T_147_357_355_403,P05,TV,insert,pen,4
+678,P05_T_135_415_407_475,P05,TV,scan,tissue,6
+679,P05_T_135_415_407_475,P05,TV,writing,tissue,6
+680,P05_T_136_505_496_564,P05,TV,simple,card,3
+681,P05_T_136_505_496_564,P05,TV,hold to,card,3
+682,P06_T_234_79_1287_153,P06,TV,place on,key,5
+683,P06_T_234_79_1287_153,P06,TV,turn,key,5
+684,P06_T_238_164_1507_221,P06,TV,uncomfortable,card,4
+685,P06_T_238_164_1507_221,P06,TV,place on,card,4
+686,P06_T_226_234_1017_314,P06,TV,uncomfortable,tissue,6
+687,P06_T_226_234_1017_314,P06,TV,breakable / unstable,tissue,6
+688,P06_T_226_234_1017_314,P06,TV,place on,tissue,6
+689,P06_T_230_326_2034_415,P06,TV,photo,phone,1
+690,P06_T_230_326_2034_415,P06,TV,comfortable,phone,1
+691,P06_T_230_326_2034_415,P06,TV,multifunctional,phone,1
+692,P06_T_236_428_2077_492,P06,TV,pointing,pen,2
+693,P06_T_236_428_2077_492,P06,TV,comfortable,pen,2
+694,P06_T_236_428_2077_492,P06,TV,swipe,pen,2
+695,P06_T_238_506_2111_679,P06,TV,wipe,watch,3
+696,P06_T_238_506_2111_679,P06,TV,wearable,watch,3
+697,P06_T_238_506_2111_679,P06,TV,comfortable,watch,3
+698,P06_T_238_506_2111_679,P06,TV,throw,watch,3
+699,P06_T_238_506_2111_679,P06,TV,hold to,watch,3
+700,P07_T_248_128_1487_225,P07,TV,wireless connection,phone,2
+701,P07_T_236_236_1941_332,P07,TV,additional device needed,key,3
+702,P07_T_236_236_1941_332,P07,TV,place on,key,3
+703,P07_T_236_236_1941_332,P07,TV,uncomfortable,key,3
+704,P07_T_236_236_1941_332,P07,TV,insert,key,3
+705,P07_T_236_343_1040_451,P07,TV,additional device needed,card,3
+706,P07_T_236_343_1040_451,P07,TV,insert,card,3
+707,P07_T_236_343_1040_451,P07,TV,place on,card,3
+708,P07_T_236_343_1040_451,P07,TV,uncomfortable,card,3
+709,P07_T_242_459_1255_546,P07,TV,swipe,watch,1
+710,P07_T_242_459_1255_546,P07,TV,smart,watch,1
+711,P07_T_246_548_1120_629,P07,TV,swipe,pen,1
+712,P07_T_246_635_1257_746,P07,TV,no usage / no sense,tissue,5
+713,P08_T_182_99_1612_173,P08,TV,already functional,phone,4
+714,P08_T_182_99_1612_173,P08,TV,comfortable,phone,4
+715,P08_T_182_99_1612_173,P08,TV,wireless connection,phone,4
+716,P08_T_190_181_1804_262,P08,TV,hold to,key,2
+717,P08_T_190_181_1804_262,P08,TV,at hand,key,2
+718,P08_T_190_181_1804_262,P08,TV,touch,key,2
+719,P08_T_190_181_1804_262,P08,TV,no additional device,key,2
+720,P08_T_190_181_1804_262,P08,TV,swipe,key,2
+721,P08_T_176_273_1816_344,P08,TV,not at hand\rarely / never at hand,card,6
+722,P08_T_176_273_1816_344,P08,TV,not at hand\must have at hand,card,6
+723,P08_T_176_273_1816_344,P08,TV,place on,card,6
+724,P08_T_178_352_2040_436,P08,TV,tab on object,pen,3
+725,P08_T_178_352_2040_436,P08,TV,not at hand\must have at hand,pen,3
+726,P08_T_178_352_2040_436,P08,TV,hold to,pen,3
+727,P08_T_178_448_1986_513,P08,TV,not at hand\rarely / never at hand,watch,5
+728,P08_T_178_448_1986_513,P08,TV,extra steps,watch,5
+729,P08_T_178_448_1986_513,P08,TV,insert,watch,5
+730,P08_T_178_448_1986_513,P08,TV,additional device needed,watch,5
+731,P08_T_182_525_2005_596,P08,TV,place on,tissue,1
+732,P08_T_182_525_2005_596,P08,TV,throw,tissue,1
+733,P16_T_75_62_1220_137,P16,TV,no change of location,phone,3
+734,P16_T_75_62_1220_137,P16,TV,place on,phone,3
+735,P16_T_75_62_1220_137,P16,TV,photo,phone,3
+736,P16_T_77_148_1509_227,P16,TV,no benefit / no added value,key,6
+737,P16_T_77_148_1509_227,P16,TV,secure,key,6
+738,P16_T_77_148_1509_227,P16,TV,change of location,key,6
+739,P16_T_77_148_1509_227,P16,TV,leave there,key,6
+740,P16_T_74_232_1510_314,P16,TV,no benefit / no added value,card,5
+741,P16_T_74_232_1510_314,P16,TV,leave there,card,5
+742,P16_T_74_232_1510_314,P16,TV,change of location,card,5
+743,P16_T_74_232_1510_314,P16,TV,insert,card,5
+744,P16_T_80_318_1510_388,P16,TV,no extra step,watch,3
+745,P16_T_80_318_1510_388,P16,TV,take back,watch,3
+746,P16_T_80_318_1510_388,P16,TV,wireless connection,watch,3
+747,P16_T_80_318_1510_388,P16,TV,additional device needed,watch,3
+748,P16_T_80_318_1510_388,P16,TV,hold to,watch,3
+749,P16_T_80_318_1510_388,P16,TV,change of location,watch,3
+750,P16_T_82_398_1510_478,P16,TV,encircle,pen,1
+751,P16_T_82_398_1510_478,P16,TV,wireless connection,pen,1
+752,P16_T_82_398_1510_478,P16,TV,no change of location,pen,1
+753,P16_T_82_486_1048_524,P16,TV,change of location,tissue,2
+754,P16_T_82_486_1048_524,P16,TV,hold to,tissue,2
+755,P16_T_82_486_1048_524,P16,TV,unfolded,tissue,2
+756,P16_T_82_486_1048_524,P16,TV,take back,tissue,2
+757,P17_T_197_100_1363_155,P17,TV,wireless connection,phone,1
+758,P17_T_197_100_1363_155,P17,TV,no change of location,phone,1
+759,P17_T_197_100_1363_155,P17,TV,comfortable,phone,1
+760,P17_T_197_100_1363_155,P17,TV,at hand,phone,1
+761,P17_T_198_158_1547_225,P17,TV,uncomfortable,key,5
+762,P17_T_198_158_1547_225,P17,TV,insert,key,5
+763,P17_T_198_158_1547_225,P17,TV,leave there,key,5
+764,P17_T_198_158_1547_225,P17,TV,not at hand\must have at hand,key,5
+765,P17_T_198_158_1547_225,P17,TV,change of location,key,5
+766,P17_T_198_158_1547_225,P17,TV,no change of location,key,5
+767,P17_T_208_237_1195_312,P17,TV,change of location,card,3
+768,P17_T_208_237_1195_312,P17,TV,hold to,card,3
+769,P17_T_208_237_1195_312,P17,TV,uncomfortable,card,3
+770,P17_T_208_237_1195_312,P17,TV,insert,card,3
+771,P17_T_208_237_1195_312,P17,TV,leave there,card,3
+772,P17_T_207_317_998_373,P17,TV,wireless connection,watch,2
+773,P17_T_207_317_998_373,P17,TV,comfortable,watch,2
+774,P17_T_207_317_998_373,P17,TV,at hand,watch,2
+775,P17_T_207_317_998_373,P17,TV,no change of location,watch,2
+776,P17_T_208_380_567_430,P17,TV,no change of location,pen,4
+777,P17_T_208_380_567_430,P17,TV,uncomfortable,pen,4
+778,P17_T_208_380_567_430,P17,TV,leave there,pen,4
+779,P17_T_208_380_567_430,P17,TV,change of location,pen,4
+780,P17_T_208_380_567_430,P17,TV,insert,pen,4
+781,P17_T_205_445_1318_518,P17,TV,take back,tissue,6
+782,P17_T_205_445_1318_518,P17,TV,hold to,tissue,6
+783,P17_T_205_445_1318_518,P17,TV,not realisable,tissue,6
+784,P17_T_205_445_1318_518,P17,TV,change of location,tissue,6
+785,P17_T_205_445_1318_518,P17,TV,not at hand\must have at hand,tissue,6
+786,P18_T_134_93_1685_221,P18,TV,hold to,phone,4
+787,P18_T_134_93_1685_221,P18,TV,no change of location,phone,4
+788,P18_T_134_93_1685_221,P18,TV,practical,phone,4
+789,P18_T_134_93_1685_221,P18,TV,wireless connection,phone,4
+790,P18_T_129_223_363_248,P18,TV,no usage / no sense,key,6
+791,P18_T_122_273_1675_354,P18,TV,place on,card,3
+792,P18_T_122_273_1675_354,P18,TV,no change of location,card,3
+793,P18_T_121_367_687_411,P18,TV,hold to,watch,5
+794,P18_T_121_367_687_411,P18,TV,practical,watch,5
+795,P18_T_121_367_687_411,P18,TV,wireless connection,watch,5
+796,P18_T_121_367_687_411,P18,TV,no change of location,watch,5
+797,P18_T_121_427_1685_484,P18,TV,tab on object\button,pen,1
+798,P18_T_121_427_1685_484,P18,TV,no change of location,pen,1
+799,P18_T_121_427_1685_484,P18,TV,swipe,pen,1
+800,P18_T_121_427_1685_484,P18,TV,pointing,pen,1
+801,P18_T_121_516_1647_685,P18,TV,breakable / unstable,tissue,2
+802,P18_T_121_516_1647_685,P18,TV,not realisable,tissue,2
+803,P18_T_121_516_1647_685,P18,TV,impractical / cumbersome,tissue,2
+804,P18_T_121_516_1647_685,P18,TV,fun / innovative,tissue,2
+805,P18_T_121_516_1647_685,P18,TV,no change of location,tissue,2
+806,P18_T_121_516_1647_685,P18,TV,disposable,tissue,2
+807,P18_T_121_516_1647_685,P18,TV,throw,tissue,2
+808,P19_T_14_94_1310_158,P19,TV,known interaction,phone,1
+809,P19_T_14_94_1310_158,P19,TV,wireless connection,phone,1
+810,P19_T_14_94_1310_158,P19,TV,no change of location,phone,1
+811,P19_T_14_94_1310_158,P19,TV,swipe,phone,1
+812,P19_T_26_171_876_249,P19,TV,leave there,key,6
+813,P19_T_26_171_876_249,P19,TV,place on,key,6
+814,P19_T_26_171_876_249,P19,TV,change of location,key,6
+815,P19_T_26_171_876_249,P19,TV,insert,key,6
+816,P19_T_17_266_479_341,P19,TV,change of location,card,5
+817,P19_T_17_266_479_341,P19,TV,take back,card,5
+818,P19_T_17_266_479_341,P19,TV,place on,card,5
+819,P19_T_18_367_568_429,P19,TV,no change of location,watch,2
+820,P19_T_18_367_568_429,P19,TV,wireless connection,watch,2
+821,P19_T_18_367_568_429,P19,TV,swipe,watch,2
+822,P19_T_22_455_1148_584,P19,TV,other\active corner / drag area,pen,3
+823,P19_T_22_455_1148_584,P19,TV,swipe,pen,3
+824,P19_T_22_455_1148_584,P19,TV,no change of location,pen,3
+825,P19_T_22_455_1148_584,P19,TV,known interaction,pen,3
+826,P19_T_29_593_1186_724,P19,TV,no change of location,tissue,4
+827,P19_T_29_593_1186_724,P19,TV,hold to,tissue,4
+828,P19_T_29_593_1186_724,P19,TV,pointing,tissue,4
+829,P19_T_29_593_1186_724,P19,TV,tab on object,tissue,4
+830,P20_T_81_90_1097_148,P20,TV,no change of location,phone,3
+831,P20_T_81_90_1097_148,P20,TV,wireless connection,phone,3
+832,P20_T_81_90_1097_148,P20,TV,comfortable,phone,3
+833,P20_T_79_166_526_238,P20,TV,leave there,key,4
+834,P20_T_79_166_526_238,P20,TV,insert,key,4
+835,P20_T_79_166_526_238,P20,TV,change of location,key,4
+836,P20_T_79_166_526_238,P20,TV,low compatibility,key,4
+837,P20_T_77_250_369_322,P20,TV,leave there,card,4
+838,P20_T_77_250_369_322,P20,TV,change of location,card,4
+839,P20_T_77_250_369_322,P20,TV,insert,card,4
+840,P20_T_77_333_823_402,P20,TV,no change of location,watch,2
+841,P20_T_77_333_823_402,P20,TV,comfortable,watch,2
+842,P20_T_77_333_823_402,P20,TV,wireless connection,watch,2
+843,P20_T_79_416_1052_463,P20,TV,swipe,pen,1
+844,P20_T_79_416_1052_463,P20,TV,wireless connection,pen,1
+845,P20_T_79_416_1052_463,P20,TV,no change of location,pen,1
+846,P20_T_77_495_393_549,P20,TV,change of location,tissue,6
+847,P20_T_77_495_393_549,P20,TV,no benefit / no added value,tissue,6
+848,P20_T_77_495_393_549,P20,TV,imprint,tissue,6
+849,P20_T_77_495_393_549,P20,TV,take back,tissue,6
+850,P21_T_210_74_1614_163,P21,TV,no change of location,phone,1
+851,P21_T_210_74_1614_163,P21,TV,photo,phone,1
+852,P21_T_210_74_1614_163,P21,TV,swipe,phone,1
+853,P21_T_212_167_1608_244,P21,TV,no change of location,key,6
+854,P21_T_212_167_1608_244,P21,TV,hologram,key,6
+855,P21_T_212_248_1614_307,P21,TV,swipe,card,3
+856,P21_T_212_248_1614_307,P21,TV,not at hand\must have at hand,card,3
+857,P21_T_212_248_1614_307,P21,TV,no change of location,card,3
+858,P21_T_212_248_1614_307,P21,TV,hold to,card,3
+859,P21_T_220_316_664_346,P21,TV,no change of location,watch,4
+860,P21_T_220_316_664_346,P21,TV,voice command,watch,4
+861,P21_T_206_369_1478_458,P21,TV,pointing,pen,5
+862,P21_T_206_369_1478_458,P21,TV,swipe,pen,5
+863,P21_T_206_369_1478_458,P21,TV,writing,pen,5
+864,P21_T_206_369_1478_458,P21,TV,no change of location,pen,5
+865,P21_T_214_471_1145_578,P21,TV,change of location,tissue,2
+866,P21_T_214_471_1145_578,P21,TV,take back,tissue,2
+867,P21_T_214_471_1145_578,P21,TV,hologram,tissue,2
+868,P21_T_214_471_1145_578,P21,TV,hold to,tissue,2
+869,P21_T_214_471_1145_578,P21,TV,touch,tissue,2
+870,P21_T_214_471_1145_578,P21,TV,voice command,tissue,2
+871,P21_T_214_471_1145_578,P21,TV,at hand,tissue,2
+872,P21_T_214_471_1145_578,P21,TV,no change of location,tissue,2
+873,P22_T_95_80_760_156,P22,TV,change of location,phone,2
+874,P22_T_95_80_760_156,P22,TV,cable,phone,2
+875,P22_T_95_80_760_156,P22,TV,known interaction,phone,2
+876,P22_T_95_80_760_156,P22,TV,leave there,phone,2
+877,P22_T_93_178_1431_258,P22,TV,turn,key,5
+878,P22_T_93_178_1431_258,P22,TV,known interaction,key,5
+879,P22_T_93_178_1431_258,P22,TV,simple,key,5
+880,P22_T_93_178_1431_258,P22,TV,leave there,key,5
+881,P22_T_93_178_1431_258,P22,TV,insert,key,5
+882,P22_T_93_178_1431_258,P22,TV,original use,key,5
+883,P22_T_93_178_1431_258,P22,TV,change of location,key,5
+884,P22_T_97_268_680_308,P22,TV,leave there,card,4
+885,P22_T_97_268_680_308,P22,TV,insert,card,4
+886,P22_T_97_268_680_308,P22,TV,change of location,card,4
+887,P22_T_97_268_680_308,P22,TV,simple,card,4
+888,P22_T_93_329_877_387,P22,TV,wireless connection,watch,1
+889,P22_T_93_329_877_387,P22,TV,take back,watch,1
+890,P22_T_93_329_877_387,P22,TV,hold to,watch,1
+891,P22_T_93_329_877_387,P22,TV,change of location,watch,1
+892,P22_T_93_398_1585_494,P22,TV,wireless connection,pen,3
+893,P22_T_93_398_1585_494,P22,TV,no change of location,pen,3
+894,P22_T_93_398_1585_494,P22,TV,multifunctional,pen,3
+895,P22_T_93_398_1585_494,P22,TV,insert,pen,3
+896,P22_T_93_398_1585_494,P22,TV,pointing,pen,3
+897,P22_T_93_398_1585_494,P22,TV,tab on object\button,pen,3
+898,P22_T_91_496_1481_561,P22,TV,leave there,tissue,6
+899,P22_T_91_496_1481_561,P22,TV,not realisable,tissue,6
+900,P22_T_91_496_1481_561,P22,TV,insert,tissue,6
+901,P22_T_91_496_1481_561,P22,TV,hologram,tissue,6
+902,P22_T_91_496_1481_561,P22,TV,change of location,tissue,6
+903,P23_T_90_78_1684_179,P23,TV,realisable,phone,4
+904,P23_T_90_78_1684_179,P23,TV,no change of location,phone,4
+905,P23_T_90_78_1684_179,P23,TV,place on,phone,4
+906,P23_T_90_78_1684_179,P23,TV,want at hand,phone,4
+907,P23_T_90_78_1684_179,P23,TV,wireless connection,phone,4
+908,P23_T_92_187_1660_271,P23,TV,leave there,key,2
+909,P23_T_92_187_1660_271,P23,TV,place on,key,2
+910,P23_T_92_187_1660_271,P23,TV,not at hand\must have at hand,key,2
+911,P23_T_92_187_1660_271,P23,TV,comfortable,key,2
+912,P23_T_92_187_1660_271,P23,TV,change of location,key,2
+913,P23_T_98_279_1120_349,P23,TV,leave there,card,1
+914,P23_T_98_279_1120_349,P23,TV,change of location,card,1
+915,P23_T_98_279_1120_349,P23,TV,place on,card,1
+916,P23_T_98_279_1120_349,P23,TV,at hand,card,1
+917,P23_T_92_361_1690_428,P23,TV,change of location,watch,5
+918,P23_T_92_361_1690_428,P23,TV,uncomfortable,watch,5
+919,P23_T_92_361_1690_428,P23,TV,fast / quick,watch,5
+920,P23_T_92_361_1690_428,P23,TV,wearable,watch,5
+921,P23_T_92_361_1690_428,P23,TV,take back,watch,5
+922,P23_T_92_361_1690_428,P23,TV,not at hand\must have at hand,watch,5
+923,P23_T_96_436_1674_528,P23,TV,at hand depending on location,pen,3
+924,P23_T_96_436_1674_528,P23,TV,change of location,pen,3
+925,P23_T_96_436_1674_528,P23,TV,leave there,pen,3
+926,P23_T_96_436_1674_528,P23,TV,insert,pen,3
+927,P23_T_96_436_1674_528,P23,TV,realisable,pen,3
+928,P23_T_94_532_1315_606,P23,TV,leave there,tissue,6
+929,P23_T_94_532_1315_606,P23,TV,change of location,tissue,6
+930,P23_T_94_532_1315_606,P23,TV,place on,tissue,6
+931,P23_T_94_532_1315_606,P23,TV,not realisable,tissue,6
+932,P24_T_232_78_1210_130,P24,TV,no change of location,phone,2
+933,P24_T_232_78_1210_130,P24,TV,wireless connection\cloud,phone,2
+934,P24_T_232_78_1210_130,P24,TV,swipe,phone,2
+935,P24_T_228_144_1669_234,P24,TV,no change of location,key,4
+936,P24_T_228_144_1669_234,P24,TV,place next,key,4
+937,P24_T_226_240_1572_307,P24,TV,change of location,card,5
+938,P24_T_226_240_1572_307,P24,TV,touch,card,5
+939,P24_T_226_240_1572_307,P24,TV,take back,card,5
+940,P24_T_226_240_1572_307,P24,TV,drag through,card,5
+941,P24_T_226_311_1542_390,P24,TV,no change of location,watch,1
+942,P24_T_226_311_1542_390,P24,TV,swipe,watch,1
+943,P24_T_226_311_1542_390,P24,TV,wireless connection,watch,1
+944,P24_T_230_394_1645_461,P24,TV,magnetically attached,pen,3
+945,P24_T_230_394_1645_461,P24,TV,no change of location,pen,3
+946,P24_T_230_394_1645_461,P24,TV,tab on object\button,pen,3
+947,P24_T_230_394_1645_461,P24,TV,pointing,pen,3
+948,P24_T_228_469_1681_625,P24,TV,other original purpose,tissue,6
+949,P24_T_228_469_1681_625,P24,TV,no change of location,tissue,6
+950,P24_T_228_469_1681_625,P24,TV,place next,tissue,6
+951,P24_T_228_469_1681_625,P24,TV,realisable,tissue,6
+952,P25_T_45_101_698_138,P25,TV,wireless connection,phone,1
+953,P25_T_45_101_698_138,P25,TV,no change of location,phone,1
+954,P25_T_45_101_698_138,P25,TV,multifunctional,phone,1
+955,P25_T_49_155_947_220,P25,TV,uncomfortable,key,6
+956,P25_T_49_155_947_220,P25,TV,insert,key,6
+957,P25_T_49_155_947_220,P25,TV,change of location,key,6
+958,P25_T_49_155_947_220,P25,TV,leave there,key,6
+959,P25_T_55_231_1429_307,P25,TV,no change of location,card,5
+960,P25_T_55_231_1429_307,P25,TV,comfortable,card,5
+961,P25_T_55_231_1429_307,P25,TV,place on,card,5
+962,P25_T_55_231_1429_307,P25,TV,additional device needed,card,5
+963,P25_T_53_322_1540_395,P25,TV,wireless connection,watch,2
+964,P25_T_53_322_1540_395,P25,TV,no change of location,watch,2
+965,P25_T_51_407_1024_458,P25,TV,magnetically attached,pen,3
+966,P25_T_51_407_1024_458,P25,TV,swipe,pen,3
+967,P25_T_51_407_1024_458,P25,TV,no change of location,pen,3
+968,P25_T_58_478_1451_547,P25,TV,no change of location,tissue,5
+969,P25_T_58_478_1451_547,P25,TV,additional device needed,tissue,5
+970,P25_T_58_478_1451_547,P25,TV,place on,tissue,5
+971,P26_T_55_17_842_88,P26,TV,wireless connection,phone,1
+972,P26_T_55_17_842_88,P26,TV,no change of location,phone,1
+973,P26_T_63_95_1345_169,P26,TV,simple,key,6
+974,P26_T_63_95_1345_169,P26,TV,change of location,key,6
+975,P26_T_63_95_1345_169,P26,TV,insert,key,6
+976,P26_T_63_95_1345_169,P26,TV,leave there,key,6
+977,P26_T_65_179_1401_260,P26,TV,not realisable,card,4
+978,P26_T_65_179_1401_260,P26,TV,leave there,card,4
+979,P26_T_65_179_1401_260,P26,TV,change of location,card,4
+980,P26_T_65_179_1401_260,P26,TV,practical,card,4
+981,P26_T_66_269_1098_340,P26,TV,no change of location,watch,2
+982,P26_T_66_269_1098_340,P26,TV,wireless connection,watch,2
+983,P26_T_61_343_418_405,P26,TV,insert,pen,5
+984,P26_T_61_343_418_405,P26,TV,change of location,pen,5
+985,P26_T_61_343_418_405,P26,TV,leave there,pen,5
+986,P26_T_58_419_1023_481,P26,TV,leave there,tissue,3
+987,P26_T_58_419_1023_481,P26,TV,place on,tissue,3
+988,P26_T_58_419_1023_481,P26,TV,change of location,tissue,3
+989,P26_T_58_419_1023_481,P26,TV,no additional device,tissue,3
+990,P27_T_83_105_496_187,P27,TV,no change of location,phone,1
+991,P27_T_83_105_496_187,P27,TV,wireless connection,phone,1
+992,P27_T_90_212_558_260,P27,TV,change of location,key,5
+993,P27_T_90_212_558_260,P27,TV,insert,key,5
+994,P27_T_90_212_558_260,P27,TV,leave there,key,5
+995,P27_T_90_212_558_260,P27,TV,additional device needed,key,5
+996,P27_T_81_282_1719_361,P27,TV,change of location,card,2
+997,P27_T_81_282_1719_361,P27,TV,take back,card,2
+998,P27_T_81_282_1719_361,P27,TV,scan,card,2
+999,P27_T_85_381_480_445,P27,TV,no change of location,watch,4
+1000,P27_T_85_381_480_445,P27,TV,wireless connection,watch,4
+1001,P27_T_91_455_1524_520,P27,TV,no change of location,pen,3
+1002,P27_T_91_455_1524_520,P27,TV,tab on object\button,pen,3
+1003,P27_T_91_455_1524_520,P27,TV,project,pen,3
+1004,P27_T_91_455_1524_520,P27,TV,wireless connection,pen,3
+1005,P27_T_75_554_1397_613,P27,TV,place on,tissue,6
+1006,P27_T_75_554_1397_613,P27,TV,leave there,tissue,6
+1007,P27_T_75_554_1397_613,P27,TV,change of location,tissue,6
+1008,P27_T_75_554_1397_613,P27,TV,additional device needed,tissue,6
+1009,P28_T_85_104_656_167,P28,TV,no change of location,phone,3
+1010,P28_T_85_104_656_167,P28,TV,pointing,phone,3
+1011,P28_T_90_196_1026_244,P28,TV,change of location,key,6
+1012,P28_T_90_196_1026_244,P28,TV,insert,key,6
+1013,P28_T_90_196_1026_244,P28,TV,leave there,key,6
+1014,P28_T_90_196_1026_244,P28,TV,extra steps,key,6
+1015,P28_T_85_256_1002_327,P28,TV,change of location,card,5
+1016,P28_T_85_256_1002_327,P28,TV,leave there,card,5
+1017,P28_T_85_256_1002_327,P28,TV,extra steps,card,5
+1018,P28_T_85_256_1002_327,P28,TV,insert,card,5
+1019,P28_T_84_345_874_416,P28,TV,wireless connection\cloud,watch,4
+1020,P28_T_84_345_874_416,P28,TV,swipe,watch,4
+1021,P28_T_84_345_874_416,P28,TV,no change of location,watch,4
+1022,P28_T_87_435_1045_499,P28,TV,change of location,pen,1
+1023,P28_T_87_435_1045_499,P28,TV,at hand,pen,1
+1024,P28_T_87_435_1045_499,P28,TV,touch,pen,1
+1025,P28_T_85_509_759_582,P28,TV,no change of location,tissue,2
+1026,P28_T_85_509_759_582,P28,TV,pointing,tissue,2
+1027,P29_T_75_111_1670_184,P29,TV,fun / innovative,phone,1
+1028,P29_T_75_111_1670_184,P29,TV,cable,phone,1
+1029,P29_T_75_111_1670_184,P29,TV,hold to,phone,1
+1030,P29_T_75_111_1670_184,P29,TV,change of location,phone,1
+1031,P29_T_75_111_1670_184,P29,TV,wireless connection\cloud,phone,1
+1032,P29_T_75_111_1670_184,P29,TV,take back,phone,1
+1033,P29_T_76_208_1445_276,P29,TV,take back,key,5
+1034,P29_T_76_208_1445_276,P29,TV,other original purpose,key,5
+1035,P29_T_76_208_1445_276,P29,TV,place on,key,5
+1036,P29_T_76_208_1445_276,P29,TV,change of location,key,5
+1037,P29_T_88_294_1153_370,P29,TV,place on,card,3
+1038,P29_T_88_294_1153_370,P29,TV,take back,card,3
+1039,P29_T_88_294_1153_370,P29,TV,change of location,card,3
+1040,P29_T_78_377_1658_460,P29,TV,neg wearable,watch,2
+1041,P29_T_78_377_1658_460,P29,TV,hold to,watch,2
+1042,P29_T_78_377_1658_460,P29,TV,change of location,watch,2
+1043,P29_T_78_377_1658_460,P29,TV,take back,watch,2
+1044,P29_T_70_464_983_521,P29,TV,take back,pen,3
+1045,P29_T_70_464_983_521,P29,TV,hold to,pen,3
+1046,P29_T_70_464_983_521,P29,TV,change of location,pen,3
+1047,P29_T_70_464_983_521,P29,TV,magnetically attached,pen,3
+1048,P29_T_82_528_1230_624,P29,TV,take back,tissue,6
+1049,P29_T_82_528_1230_624,P29,TV,not realisable,tissue,6
+1050,P29_T_82_528_1230_624,P29,TV,change of location,tissue,6
+1051,P29_T_82_528_1230_624,P29,TV,place on,tissue,6
+1052,P29_T_82_528_1230_624,P29,TV,hold to,tissue,6
+1053,P29_T_82_528_1230_624,P29,TV,unfolded,tissue,6
+1054,P30_T_114_93_1824_197,P30,TV,change of location,phone,1
+1055,P30_T_114_93_1824_197,P30,TV,cable,phone,1
+1056,P30_T_114_93_1824_197,P30,TV,impractical / cumbersome,phone,1
+1057,P30_T_114_93_1824_197,P30,TV,leave there,phone,1
+1058,P30_T_114_199_1415_280,P30,TV,change of location,key,5
+1059,P30_T_114_199_1415_280,P30,TV,insert,key,5
+1060,P30_T_114_199_1415_280,P30,TV,insecure,key,5
+1061,P30_T_114_199_1415_280,P30,TV,leave there,key,5
+1062,P30_T_114_286_1047_370,P30,TV,leave there,card,3
+1063,P30_T_114_286_1047_370,P30,TV,change of location,card,3
+1064,P30_T_114_286_1047_370,P30,TV,insert,card,3
+1065,P30_T_114_286_1047_370,P30,TV,place on,card,3
+1066,P30_T_118_378_1824_464,P30,TV,take back,watch,2
+1067,P30_T_118_378_1824_464,P30,TV,change of location,watch,2
+1068,P30_T_118_378_1824_464,P30,TV,wearable,watch,2
+1069,P30_T_118_378_1824_464,P30,TV,uncomfortable,watch,2
+1070,P30_T_112_472_584_525,P30,TV,leave there,pen,6
+1071,P30_T_112_472_584_525,P30,TV,change of location,pen,6
+1072,P30_T_112_472_584_525,P30,TV,insert,pen,6
+1073,P30_T_112_536_518_599,P30,TV,place on,tissue,3
+1074,P30_T_112_536_518_599,P30,TV,leave there,tissue,3
+1075,P30_T_112_536_518_599,P30,TV,insert,tissue,3
+1076,P30_T_112_536_518_599,P30,TV,change of location,tissue,3
+1077,P09_O_325_147_2069_239,P09,Office,take back,phone,4
+1078,P09_O_325_147_2069_239,P09,Office,identification / verification,phone,4
+1079,P09_O_325_147_2069_239,P09,Office,personal object,phone,4
+1080,P09_O_325_147_2069_239,P09,Office,change of location,phone,4
+1081,P09_O_325_147_2069_239,P09,Office,no change of hand,phone,4
+1082,P09_O_325_147_2069_239,P09,Office,hold to,phone,4
+1083,P09_O_326_251_2266_363,P09,Office,turn,key,2
+1084,P09_O_326_251_2266_363,P09,Office,known interaction,key,2
+1085,P09_O_326_251_2266_363,P09,Office,smart,key,2
+1086,P09_O_326_251_2266_363,P09,Office,identification / verification,key,2
+1087,P09_O_326_251_2266_363,P09,Office,secure,key,2
+1088,P09_O_329_372_2188_470,P09,Office,impersonal object,card,1
+1089,P09_O_329_372_2188_470,P09,Office,change of hand,card,1
+1090,P09_O_329_372_2188_470,P09,Office,data deleted after single use,card,1
+1091,P09_O_329_372_2188_470,P09,Office,other person needs not to be present,card,1
+1092,P09_O_329_372_2188_470,P09,Office,place on,card,1
+1093,P09_O_329_372_2188_470,P09,Office,change of location,card,1
+1094,P09_O_329_372_2188_470,P09,Office,secure,card,1
+1095,P09_O_329_372_2188_470,P09,Office,leave there,card,1
+1096,P09_O_329_372_2188_470,P09,Office,comfortable,card,1
+1097,P09_O_331_477_819_557,P09,Office,take back,watch,3
+1098,P09_O_331_477_819_557,P09,Office,identification / verification,watch,3
+1099,P09_O_331_477_819_557,P09,Office,hold to,watch,3
+1100,P09_O_331_477_819_557,P09,Office,no change of hand,watch,3
+1101,P09_O_331_477_819_557,P09,Office,personal object,watch,3
+1102,P09_O_331_477_819_557,P09,Office,change of location,watch,3
+1103,P09_O_331_570_2154_662,P09,Office,extra steps,pen,5
+1104,P09_O_331_570_2154_662,P09,Office,identification / verification,pen,5
+1105,P09_O_331_570_2154_662,P09,Office,secure,pen,5
+1106,P09_O_331_570_2154_662,P09,Office,no change of hand,pen,5
+1107,P09_O_331_570_2154_662,P09,Office,take back,pen,5
+1108,P09_O_331_570_2154_662,P09,Office,writing,pen,5
+1109,P09_O_326_678_847_783,P09,Office,no usage / no sense,tissue,6
+1110,P01_O_139_149_1124_273,P01,Office,fast / quick,phone,1
+1111,P01_O_139_149_1124_273,P01,Office,no change of location,phone,1
+1112,P01_O_139_149_1124_273,P01,Office,wireless connection\messenger,phone,1
+1113,P01_O_139_285_889_379,P01,Office,no change of location,watch,2
+1114,P01_O_139_285_889_379,P01,Office,fast / quick,watch,2
+1115,P01_O_139_396_2240_497,P01,Office,hold to,card,5
+1116,P01_O_139_396_2240_497,P01,Office,no change of hand,card,5
+1117,P01_O_139_396_2240_497,P01,Office,fast / quick,card,5
+1118,P01_O_139_396_2240_497,P01,Office,other person needs not to be present,card,5
+1119,P01_O_139_396_2240_497,P01,Office,change of hand,card,5
+1120,P01_O_139_396_2240_497,P01,Office,change of location,card,5
+1121,P01_O_139_511_1955_627,P01,Office,insert,key,3
+1122,P01_O_139_511_1955_627,P01,Office,secure,key,3
+1123,P01_O_139_511_1955_627,P01,Office,other,key,3
+1124,P01_O_137_634_1393_725,P01,Office,magnetically attached,pen,4
+1125,P01_O_137_634_1393_725,P01,Office,pointing,pen,4
+1126,P01_O_137_634_1393_725,P01,Office,fast / quick,pen,4
+1127,P01_O_130_748_2265_874,P01,Office,throw away,tissue,6
+1128,P01_O_130_748_2265_874,P01,Office,object defect after single use,tissue,6
+1129,P01_O_130_748_2265_874,P01,Office,change of location,tissue,6
+1130,P01_O_130_748_2265_874,P01,Office,leave there,tissue,6
+1131,P01_O_130_748_2265_874,P01,Office,disposable,tissue,6
+1132,P10_O_154_63_1581_192,P10,Office,simple,phone,1
+1133,P10_O_154_63_1581_192,P10,Office,fast / quick,phone,1
+1134,P10_O_154_63_1581_192,P10,Office,place on,phone,1
+1135,P10_O_154_63_1581_192,P10,Office,wireless connection\messenger,phone,1
+1136,P10_O_157_208_1581_306,P10,Office,small / handy,key,3
+1137,P10_O_157_208_1581_306,P10,Office,change of location,key,3
+1138,P10_O_157_208_1581_306,P10,Office,take back,key,3
+1139,P10_O_157_208_1581_306,P10,Office,insert,key,3
+1140,P10_O_157_208_1581_306,P10,Office,change of hand,key,3
+1141,P10_O_157_317_1620_422,P10,Office,take back,card,5
+1142,P10_O_157_317_1620_422,P10,Office,change of hand,card,5
+1143,P10_O_157_317_1620_422,P10,Office,change of location,card,5
+1144,P10_O_157_317_1620_422,P10,Office,small / handy,card,5
+1145,P10_O_157_317_1620_422,P10,Office,hold to,card,5
+1146,P10_O_155_438_942_536,P10,Office,smart,watch,2
+1147,P10_O_155_438_942_536,P10,Office,simple,watch,2
+1148,P10_O_155_438_942_536,P10,Office,wireless connection\messenger,watch,2
+1149,P10_O_155_438_942_536,P10,Office,fast / quick,watch,2
+1150,P10_O_157_546_1490_646,P10,Office,change of hand,pen,3
+1151,P10_O_157_546_1490_646,P10,Office,take back,pen,3
+1152,P10_O_157_546_1490_646,P10,Office,at hand depending on location,pen,3
+1153,P10_O_157_546_1490_646,P10,Office,insert,pen,3
+1154,P10_O_157_546_1490_646,P10,Office,change of location,pen,3
+1155,P10_O_155_657_961_769,P10,Office,change of hand,tissue,6
+1156,P10_O_155_657_961_769,P10,Office,take back,tissue,6
+1157,P10_O_155_657_961_769,P10,Office,change of location,tissue,6
+1158,P10_O_155_657_961_769,P10,Office,hold to,tissue,6
+1159,P11_O_285_113_956_216,P11,Office,scan,phone,2
+1160,P11_O_285_113_956_216,P11,Office,multifunctional,phone,2
+1161,P11_O_285_113_956_216,P11,Office,known interaction,phone,2
+1162,P11_O_285_113_956_216,P11,Office,wireless connection,phone,2
+1163,P11_O_285_230_1141_319,P11,Office,secure,key,3
+1164,P11_O_285_230_1141_319,P11,Office,other\automatic transportation,key,3
+1165,P11_O_285_230_1141_319,P11,Office,other,key,3
+1166,P11_O_285_230_1141_319,P11,Office,additional device needed,key,3
+1167,P11_O_283_333_2165_434,P11,Office,slow,card,5
+1168,P11_O_283_333_2165_434,P11,Office,take back,card,5
+1169,P11_O_283_333_2165_434,P11,Office,scan,card,5
+1170,P11_O_283_333_2165_434,P11,Office,hold to,card,5
+1171,P11_O_283_333_2165_434,P11,Office,change of hand,card,5
+1172,P11_O_256_445_2220_536,P11,Office,comfortable,watch,1
+1173,P11_O_256_445_2220_536,P11,Office,hologram,watch,1
+1174,P11_O_256_445_2220_536,P11,Office,no change of location,watch,1
+1175,P11_O_256_445_2220_536,P11,Office,fast / quick,watch,1
+1176,P11_O_265_550_2206_664,P11,Office,data deleted after single use,pen,4
+1177,P11_O_265_550_2206_664,P11,Office,change of location,pen,4
+1178,P11_O_265_550_2206_664,P11,Office,take back,pen,4
+1179,P11_O_265_550_2206_664,P11,Office,change of hand,pen,4
+1180,P11_O_265_550_2206_664,P11,Office,touch,pen,4
+1181,P11_O_269_673_2222_970,P11,Office,wipe,tissue,6
+1182,P11_O_269_673_2222_970,P11,Office,fast / quick,tissue,6
+1183,P11_O_269_673_2222_970,P11,Office,change of location,tissue,6
+1184,P11_O_269_673_2222_970,P11,Office,technical / technological,tissue,6
+1185,P12_O_312_171_2073_276,P12,Office,take back,phone,6
+1186,P12_O_312_171_2073_276,P12,Office,at hand depending on location,phone,6
+1187,P12_O_312_171_2073_276,P12,Office,place on,phone,6
+1188,P12_O_312_171_2073_276,P12,Office,change of hand,phone,6
+1189,P12_O_312_171_2073_276,P12,Office,change of location,phone,6
+1190,P12_O_317_283_2265_388,P12,Office,secure,key,1
+1191,P12_O_317_283_2265_388,P12,Office,other person needs not to be present,key,1
+1192,P12_O_317_283_2265_388,P12,Office,insert,key,1
+1193,P12_O_303_395_1790_490,P12,Office,change of hand,card,3
+1194,P12_O_303_395_1790_490,P12,Office,data deleted after single use,card,3
+1195,P12_O_303_395_1790_490,P12,Office,hold to,card,3
+1196,P12_O_303_395_1790_490,P12,Office,leave there,card,3
+1197,P12_O_326_495_1229_566,P12,Office,hold to,watch,5
+1198,P12_O_326_495_1229_566,P12,Office,at hand depending on location,watch,5
+1199,P12_O_342_586_1134_661,P12,Office,no change of location,pen,2
+1200,P12_O_342_586_1134_661,P12,Office,no change of hand,pen,2
+1201,P12_O_326_675_1708_762,P12,Office,hold to,tissue,4
+1202,P12_O_326_675_1708_762,P12,Office,change of hand,tissue,4
+1203,P12_O_326_675_1708_762,P12,Office,leave there,tissue,4
+1204,P12_O_326_675_1708_762,P12,Office,throw away,tissue,4
+1205,P12_O_326_675_1708_762,P12,Office,data deleted after single use,tissue,4
+1206,P12_O_326_675_1708_762,P12,Office,object defect after single use,tissue,4
+1207,P12_O_326_675_1708_762,P12,Office,change of location,tissue,4
+1208,P13_O_363_139_1732_237,P13,Office,known interaction,phone,2
+1209,P13_O_363_139_1732_237,P13,Office,scan,phone,2
+1210,P13_O_363_139_1732_237,P13,Office,wireless connection,phone,2
+1211,P13_O_358_256_2143_367,P13,Office,hold to,key,4
+1212,P13_O_358_256_2143_367,P13,Office,insert,key,4
+1213,P13_O_358_256_2143_367,P13,Office,multifunctional,key,4
+1214,P13_O_358_256_2143_367,P13,Office,take back,key,4
+1215,P13_O_358_256_2143_367,P13,Office,change of hand,key,4
+1216,P13_O_360_374_1694_456,P13,Office,hold to,card,4
+1217,P13_O_360_374_1694_456,P13,Office,change of hand,card,4
+1218,P13_O_360_374_1694_456,P13,Office,take back,card,4
+1219,P13_O_360_374_1694_456,P13,Office,multifunctional,card,4
+1220,P13_O_360_374_1694_456,P13,Office,insert,card,4
+1221,P13_O_360_470_890_552,P13,Office,wireless connection,watch,2
+1222,P13_O_360_470_890_552,P13,Office,scan,watch,2
+1223,P13_O_360_470_890_552,P13,Office,known interaction,watch,2
+1224,P13_O_360_565_2214_654,P13,Office,insert,pen,6
+1225,P13_O_360_565_2214_654,P13,Office,hold to,pen,6
+1226,P13_O_360_565_2214_654,P13,Office,already functional,pen,6
+1227,P13_O_360_565_2214_654,P13,Office,at hand depending on location,pen,6
+1228,P13_O_360_565_2214_654,P13,Office,swipe,pen,6
+1229,P13_O_360_565_2214_654,P13,Office,no benefit / no added value,pen,6
+1230,P13_O_364_668_1966_798,P13,Office,wipe,tissue,1
+1231,P13_O_364_668_1966_798,P13,Office,fun / innovative,tissue,1
+1232,P13_O_364_668_1966_798,P13,Office,leave there,tissue,1
+1233,P13_O_364_668_1966_798,P13,Office,other,tissue,1
+1234,P13_O_364_668_1966_798,P13,Office,change of hand,tissue,1
+1235,P14_O_359_83_1337_176,P14,Office,already functional,phone,5
+1236,P14_O_359_83_1337_176,P14,Office,wireless connection\messenger,phone,5
+1237,P14_O_359_83_1337_176,P14,Office,wireless connection,phone,5
+1238,P14_O_363_189_1289_283,P14,Office,insert,key,6
+1239,P14_O_363_189_1289_283,P14,Office,change of hand,key,6
+1240,P14_O_363_189_1289_283,P14,Office,leave there,key,6
+1241,P14_O_363_189_1289_283,P14,Office,change of location,key,6
+1242,P14_O_363_189_1289_283,P14,Office,no benefit / no added value,key,6
+1243,P14_O_365_306_1460_383,P14,Office,change of hand,card,3
+1244,P14_O_365_306_1460_383,P14,Office,leave there,card,3
+1245,P14_O_365_306_1460_383,P14,Office,fun / innovative,card,3
+1246,P14_O_365_306_1460_383,P14,Office,drag through,card,3
+1247,P14_O_365_397_1225_461,P14,Office,wireless connection\messenger,watch,5
+1248,P14_O_365_397_1225_461,P14,Office,smart,watch,5
+1249,P14_O_365_397_1225_461,P14,Office,already functional,watch,5
+1250,P14_O_365_477_1239_573,P14,Office,take back,pen,1
+1251,P14_O_365_477_1239_573,P14,Office,change of location,pen,1
+1252,P14_O_365_477_1239_573,P14,Office,fun / innovative,pen,1
+1253,P14_O_365_477_1239_573,P14,Office,no change of hand,pen,1
+1254,P14_O_365_477_1239_573,P14,Office,touch,pen,1
+1255,P14_O_367_596_1985_828,P14,Office,leave there,tissue,2
+1256,P14_O_367_596_1985_828,P14,Office,throw away,tissue,2
+1257,P14_O_367_596_1985_828,P14,Office,wireless connection,tissue,2
+1258,P14_O_367_596_1985_828,P14,Office,wireless connection\cloud,tissue,2
+1259,P14_O_367_596_1985_828,P14,Office,change of hand,tissue,2
+1260,P14_O_367_596_1985_828,P14,Office,object defect after single use,tissue,2
+1261,P14_O_367_596_1985_828,P14,Office,breakable / unstable,tissue,2
+1262,P15_O_299_139_1232_217,P15,Office,wireless connection\cloud,phone,2
+1263,P15_O_299_139_1232_217,P15,Office,wireless connection\messenger,phone,2
+1264,P15_O_310_224_1524_317,P15,Office,simple,key,5
+1265,P15_O_310_224_1524_317,P15,Office,take back,key,5
+1266,P15_O_310_224_1524_317,P15,Office,insert,key,5
+1267,P15_O_310_224_1524_317,P15,Office,change of hand,key,5
+1268,P15_O_306_335_1627_431,P15,Office,change of hand,card,4
+1269,P15_O_306_335_1627_431,P15,Office,take back,card,4
+1270,P15_O_306_335_1627_431,P15,Office,place on,card,4
+1271,P15_O_306_335_1627_431,P15,Office,simple,card,4
+1272,P15_O_308_447_1059_516,P15,Office,wireless connection\cloud,watch,3
+1273,P15_O_313_529_2056_609,P15,Office,wireless connection\cloud,pen,1
+1274,P15_O_313_529_2056_609,P15,Office,known interaction,pen,1
+1275,P15_O_313_529_2056_609,P15,Office,touch,pen,1
+1276,P15_O_313_529_2056_609,P15,Office,fast / quick,pen,1
+1277,P15_O_310_625_1985_869,P15,Office,hold to,tissue,6
+1278,P15_O_310_625_1985_869,P15,Office,wipe,tissue,6
+1279,P15_O_310_625_1985_869,P15,Office,disposable,tissue,6
+1280,P15_O_310_625_1985_869,P15,Office,take back,tissue,6
+1281,P15_O_310_625_1985_869,P15,Office,breakable / unstable,tissue,6
+1282,P02_O_114_73_1662_219,P02,Office,change of hand,card,1
+1283,P02_O_114_73_1662_219,P02,Office,secure,card,1
+1284,P02_O_114_73_1662_219,P02,Office,insert,card,1
+1285,P02_O_114_230_1004_292,P02,Office,insert,pen,4
+1286,P02_O_114_230_1004_292,P02,Office,change of hand,pen,4
+1287,P02_O_120_308_936_412,P02,Office,secure,key,3
+1288,P02_O_120_308_936_412,P02,Office,insert,key,3
+1289,P02_O_120_308_936_412,P02,Office,change of hand,key,3
+1290,P02_O_118_422_932_492,P02,Office,change of hand,tissue,2
+1291,P02_O_118_422_932_492,P02,Office,leave there,tissue,2
+1292,P02_O_118_422_932_492,P02,Office,insert,tissue,2
+1293,P02_O_118_422_932_492,P02,Office,throw away,tissue,2
+1294,P02_O_102_502_956_574,P02,Office,cable,phone,5
+1295,P02_O_116_587_1190_660,P02,Office,wireless connection,watch,6
+1296,P02_O_116_587_1190_660,P02,Office,hold to,watch,6
+1297,P03_O_176_213_758_330,P03,Office,change of hand,key,1
+1298,P03_O_176_213_758_330,P03,Office,secure,key,1
+1299,P03_O_176_213_758_330,P03,Office,insert,key,1
+1300,P03_O_180_338_860_408,P03,Office,place on,card,2
+1301,P03_O_180_338_860_408,P03,Office,change of hand,card,2
+1302,P03_O_180_338_860_408,P03,Office,additional device needed,card,2
+1303,P03_O_180_338_860_408,P03,Office,drag through,card,2
+1304,P03_O_162_422_691_516,P03,Office,secure,pen,2
+1305,P03_O_162_422_691_516,P03,Office,identification / verification,pen,2
+1306,P03_O_162_422_691_516,P03,Office,impractical / cumbersome,pen,2
+1307,P03_O_162_422_691_516,P03,Office,hold to,pen,2
+1308,P03_O_162_422_691_516,P03,Office,writing,pen,2
+1309,P03_O_137_525_643_634,P03,Office,personal object,tissue,6
+1310,P03_O_137_525_643_634,P03,Office,no usage / no sense,tissue,6
+1311,P03_O_137_525_643_634,P03,Office,no change of hand,tissue,6
+1312,P03_O_135_643_728_716,P03,Office,photo,phone,2
+1313,P03_O_135_643_728_716,P03,Office,change of location,phone,2
+1314,P03_O_135_732_1424_810,P03,Office,tab on object\button,watch,5
+1315,P03_O_135_732_1424_810,P03,Office,wireless connection,watch,5
+1316,P03_O_135_732_1424_810,P03,Office,fun / innovative,watch,5
+1317,P03_O_135_732_1424_810,P03,Office,hold to,watch,5
+1318,P04_O_94_113_1018_221,P04,Office,change of location,watch,3
+1319,P04_O_94_113_1018_221,P04,Office,insert,watch,3
+1320,P04_O_102_232_978_320,P04,Office,identification / verification,pen,3
+1321,P04_O_102_232_978_320,P04,Office,multifunctional,pen,3
+1322,P04_O_102_232_978_320,P04,Office,at hand,pen,3
+1323,P04_O_102_232_978_320,P04,Office,secure,pen,3
+1324,P04_O_102_232_978_320,P04,Office,change of location,pen,3
+1325,P04_O_102_232_978_320,P04,Office,insert,pen,3
+1326,P04_O_102_232_978_320,P04,Office,change of hand,pen,3
+1327,P04_O_102_232_978_320,P04,Office,writing,pen,3
+1328,P04_O_100_328_952_396,P04,Office,at hand,key,3
+1329,P04_O_100_328_952_396,P04,Office,place on,key,3
+1330,P04_O_100_328_952_396,P04,Office,change of hand,key,3
+1331,P04_O_80_408_888_490,P04,Office,change of location,card,2
+1332,P04_O_80_408_888_490,P04,Office,additional device needed,card,2
+1333,P04_O_82_506_758_600,P04,Office,place on,tissue,6
+1334,P04_O_82_506_758_600,P04,Office,change of location,tissue,6
+1335,P04_O_82_506_758_600,P04,Office,not realisable,tissue,6
+1336,P04_O_92_614_1062_706,P04,Office,wireless connection\messenger,phone,1
+1337,P04_O_92_614_1062_706,P04,Office,realisable,phone,1
+1338,P04_O_92_614_1062_706,P04,Office,wireless connection\cloud,phone,1
+1339,P05_O_113_118_1023_208,P05,Office,wireless connection,phone,1
+1340,P05_O_113_118_1023_208,P05,Office,change of location,phone,1
+1341,P05_O_105_222_847_280,P05,Office,change of location,key,5
+1342,P05_O_105_222_847_280,P05,Office,insert,key,5
+1343,P05_O_105_295_763_357,P05,Office,hold to,card,3
+1344,P05_O_103_373_535_437,P05,Office,change of hand,pen,4
+1345,P05_O_103_373_535_437,P05,Office,insert,pen,4
+1346,P05_O_103_373_535_437,P05,Office,simple,pen,4
+1347,P05_O_107_448_488_523,P05,Office,wireless connection,watch,2
+1348,P05_O_109_531_749_621,P05,Office,change of location,tissue,6
+1349,P05_O_109_531_749_621,P05,Office,change of hand,tissue,6
+1350,P05_O_109_531_749_621,P05,Office,writing,tissue,6
+1351,P06_O_180_114_1525_181,P06,Office,take back,key,5
+1352,P06_O_180_114_1525_181,P06,Office,change of hand,key,5
+1353,P06_O_180_114_1525_181,P06,Office,turn,key,5
+1354,P06_O_180_114_1525_181,P06,Office,insert,key,5
+1355,P06_O_180_114_1525_181,P06,Office,at hand depending on location,key,5
+1356,P06_O_180_114_1525_181,P06,Office,leave there,key,5
+1357,P06_O_183_192_1552_255,P06,Office,change of hand,card,4
+1358,P06_O_183_192_1552_255,P06,Office,insert,card,4
+1359,P06_O_183_192_1552_255,P06,Office,leave there,card,4
+1360,P06_O_185_265_743_332,P06,Office,leave there,tissue,6
+1361,P06_O_185_265_743_332,P06,Office,insert,tissue,6
+1362,P06_O_185_265_743_332,P06,Office,change of hand,tissue,6
+1363,P06_O_182_345_1783_418,P06,Office,wireless connection\messenger,phone,1
+1364,P06_O_182_345_1783_418,P06,Office,no change of location,phone,1
+1365,P06_O_182_345_1783_418,P06,Office,photo,phone,1
+1366,P06_O_182_345_1783_418,P06,Office,change of location,phone,1
+1367,P06_O_182_345_1783_418,P06,Office,take back,phone,1
+1368,P06_O_183_423_1780_488,P06,Office,no change of location,pen,3
+1369,P06_O_183_423_1780_488,P06,Office,pointing,pen,3
+1370,P06_O_183_423_1780_488,P06,Office,no change of hand,pen,3
+1371,P06_O_183_423_1780_488,P06,Office,hold to,pen,3
+1372,P06_O_183_423_1780_488,P06,Office,swipe,pen,3
+1373,P06_O_183_497_1865_682,P06,Office,hold to,watch,2
+1374,P06_O_183_497_1865_682,P06,Office,at hand,watch,2
+1375,P06_O_183_497_1865_682,P06,Office,no change of hand,watch,2
+1376,P06_O_183_497_1865_682,P06,Office,wearable,watch,2
+1377,P06_O_183_497_1865_682,P06,Office,change of location,watch,2
+1378,P07_O_226_113_1278_232,P07,Office,wireless connection\messenger,phone,1
+1379,P07_O_228_246_2204_331,P07,Office,change of hand,key,4
+1380,P07_O_228_246_2204_331,P07,Office,take back,key,4
+1381,P07_O_228_246_2204_331,P07,Office,change of location,key,4
+1382,P07_O_228_246_2204_331,P07,Office,insert,key,4
+1383,P07_O_226_340_1301_436,P07,Office,change of hand,card,4
+1384,P07_O_226_340_1301_436,P07,Office,take back,card,4
+1385,P07_O_226_340_1301_436,P07,Office,change of location,card,4
+1386,P07_O_226_340_1301_436,P07,Office,insert,card,4
+1387,P07_O_224_447_885_509,P07,Office,wireless connection,watch,2
+1388,P07_O_224_447_885_509,P07,Office,smart,watch,2
+1389,P07_O_217_532_2266_623,P07,Office,wireless connection,pen,3
+1390,P07_O_217_532_2266_623,P07,Office,identification / verification,pen,3
+1391,P07_O_217_532_2266_623,P07,Office,writing,pen,3
+1392,P07_O_210_637_605_751,P07,Office,no usage / no sense,tissue,6
+1393,P08_O_155_148_778_240,P08,Office,no benefit / no added value,phone,6
+1394,P08_O_155_148_778_240,P08,Office,already functional,phone,6
+1395,P08_O_155_148_778_240,P08,Office,wireless connection\messenger,phone,6
+1396,P08_O_157_251_753_316,P08,Office,tab on object,key,4
+1397,P08_O_157_251_753_316,P08,Office,small / handy,key,4
+1398,P08_O_157_251_753_316,P08,Office,robust,key,4
+1399,P08_O_157_251_753_316,P08,Office,hold to,key,4
+1400,P08_O_157_251_753_316,P08,Office,feedback from the device,key,4
+1401,P08_O_161_326_820_393,P08,Office,place on,card,2
+1402,P08_O_161_326_820_393,P08,Office,pos invisible storage,card,2
+1403,P08_O_159_404_841_471,P08,Office,pointing,pen,1
+1404,P08_O_159_404_841_471,P08,Office,tab on object\button,pen,1
+1405,P08_O_159_404_841_471,P08,Office,feedback from the device,pen,1
+1406,P08_O_159_404_841_471,P08,Office,hold to,pen,1
+1407,P08_O_159_475_857_556,P08,Office,wireless connection,watch,5
+1408,P08_O_159_475_857_556,P08,Office,no benefit / no added value,watch,5
+1409,P08_O_159_475_857_556,P08,Office,feedback from the device,watch,5
+1410,P08_O_159_475_857_556,P08,Office,hold to,watch,5
+1411,P08_O_159_475_857_556,P08,Office,swipe,watch,5
+1412,P08_O_159_475_857_556,P08,Office,already functional,watch,5
+1413,P08_O_159_565_1901_709,P08,Office,wireless connection\messenger,tissue,3
+1414,P08_O_159_565_1901_709,P08,Office,place on,tissue,3
+1415,P16_O_53_80_900_164,P16,Office,no change of location,phone,1
+1416,P16_O_53_80_900_164,P16,Office,no change of hand,phone,1
+1417,P16_O_53_80_900_164,P16,Office,wireless connection,phone,1
+1418,P16_O_606_170_1446_415,P16,Office,no change of hand,key,4
+1419,P16_O_606_170_1446_415,P16,Office,change of location,key,4
+1420,P16_O_606_170_1446_415,P16,Office,change of hand,key,4
+1421,P16_O_606_170_1446_415,P16,Office,take back,key,4
+1422,P16_O_606_170_1446_415,P16,Office,insecure,key,4
+1423,P16_O_606_170_1446_415,P16,Office,multifunctional,key,4
+1424,P16_O_606_170_1446_415,P16,Office,insert,key,4
+1425,P16_O_42_232_587_281,P16,Office,no change of hand,card,4
+1426,P16_O_42_232_587_281,P16,Office,change of location,card,4
+1427,P16_O_42_232_587_281,P16,Office,take back,card,4
+1428,P16_O_42_232_587_281,P16,Office,change of hand,card,4
+1429,P16_O_42_232_587_281,P16,Office,insert,card,4
+1430,P16_O_47_293_597_380,P16,Office,no change of hand,watch,1
+1431,P16_O_47_293_597_380,P16,Office,insecure,watch,1
+1432,P16_O_47_293_597_380,P16,Office,wireless connection,watch,1
+1433,P16_O_47_293_597_380,P16,Office,no change of location,watch,1
+1434,P16_O_54_431_1427_510,P16,Office,change of location,pen,1
+1435,P16_O_54_431_1427_510,P16,Office,leave there,pen,1
+1436,P16_O_54_431_1427_510,P16,Office,change of hand,pen,1
+1437,P16_O_54_431_1427_510,P16,Office,insert,pen,1
+1438,P16_O_14_454_43_514,P16,Office,no usage / no sense,tissue,6
+1439,P17_O_168_105_1316_185,P17,Office,personal object,phone,6
+1440,P17_O_168_105_1316_185,P17,Office,wireless connection,phone,6
+1441,P17_O_168_105_1316_185,P17,Office,change of location,phone,6
+1442,P17_O_168_105_1316_185,P17,Office,want at hand,phone,6
+1443,P17_O_168_105_1316_185,P17,Office,no change of hand,phone,6
+1444,P17_O_168_105_1316_185,P17,Office,hold to,phone,6
+1445,P17_O_163_193_1400_253,P17,Office,personal object,key,4
+1446,P17_O_163_193_1400_253,P17,Office,change of location,key,4
+1447,P17_O_163_193_1400_253,P17,Office,want at hand,key,4
+1448,P17_O_163_193_1400_253,P17,Office,insert,key,4
+1449,P17_O_163_193_1400_253,P17,Office,no change of hand,key,4
+1450,P17_O_175_272_1151_330,P17,Office,hold to,card,3
+1451,P17_O_175_272_1151_330,P17,Office,take back,card,3
+1452,P17_O_175_272_1151_330,P17,Office,change of location,card,3
+1453,P17_O_175_272_1151_330,P17,Office,change of hand,card,3
+1454,P17_O_175_335_1468_389,P17,Office,personal object,watch,5
+1455,P17_O_175_335_1468_389,P17,Office,change of location,watch,5
+1456,P17_O_175_335_1468_389,P17,Office,want at hand,watch,5
+1457,P17_O_175_335_1468_389,P17,Office,hold to,watch,5
+1458,P17_O_175_335_1468_389,P17,Office,no change of hand,watch,5
+1459,P17_O_173_393_1154_475,P17,Office,take back,pen,2
+1460,P17_O_173_393_1154_475,P17,Office,change of hand,pen,2
+1461,P17_O_173_393_1154_475,P17,Office,change of location,pen,2
+1462,P17_O_173_393_1154_475,P17,Office,insert,pen,2
+1463,P17_O_173_484_862_539,P17,Office,leave there,tissue,1
+1464,P17_O_173_484_862_539,P17,Office,change of location,tissue,1
+1465,P17_O_173_484_862_539,P17,Office,change of hand,tissue,1
+1466,P17_O_173_484_862_539,P17,Office,hold to,tissue,1
+1467,P18_O_100_65_1457_166,P18,Office,no change of location,phone,4
+1468,P18_O_100_65_1457_166,P18,Office,hold to,phone,4
+1469,P18_O_100_65_1457_166,P18,Office,change of location,phone,4
+1470,P18_O_100_65_1457_166,P18,Office,no change of hand,phone,4
+1471,P18_O_100_65_1457_166,P18,Office,wireless connection\messenger,phone,4
+1472,P18_O_100_170_1656_241,P18,Office,additional device needed,key,5
+1473,P18_O_100_170_1656_241,P18,Office,wireless connection,key,5
+1474,P18_O_100_170_1656_241,P18,Office,no change of hand,key,5
+1475,P18_O_100_170_1656_241,P18,Office,no change of location,key,5
+1476,P18_O_98_244_1668_327,P18,Office,change of location,card,1
+1477,P18_O_98_244_1668_327,P18,Office,place on,card,1
+1478,P18_O_98_244_1668_327,P18,Office,change of hand,card,1
+1479,P18_O_98_244_1668_327,P18,Office,leave there,card,1
+1480,P18_O_106_332_1318_428,P18,Office,no change of hand,watch,3
+1481,P18_O_106_332_1318_428,P18,Office,change of location,watch,3
+1482,P18_O_106_332_1318_428,P18,Office,no change of location,watch,3
+1483,P18_O_106_332_1318_428,P18,Office,hold to,watch,3
+1484,P18_O_106_332_1318_428,P18,Office,wearable,watch,3
+1485,P18_O_108_432_1341_505,P18,Office,other\active corner / drag area,pen,2
+1486,P18_O_108_432_1341_505,P18,Office,no change of hand,pen,2
+1487,P18_O_108_432_1341_505,P18,Office,touch,pen,2
+1488,P18_O_108_432_1341_505,P18,Office,no change of location,pen,2
+1489,P18_O_106_510_551_632,P18,Office,change of hand,tissue,6
+1490,P18_O_106_510_551_632,P18,Office,change of location,tissue,6
+1491,P18_O_106_510_551_632,P18,Office,leave there,tissue,6
+1492,P18_O_106_510_551_632,P18,Office,place on,tissue,6
+1493,P19_O_18_82_1295_166,P19,Office,no change of hand,phone,3
+1494,P19_O_18_82_1295_166,P19,Office,simple,phone,3
+1495,P19_O_18_82_1295_166,P19,Office,change of location,phone,3
+1496,P19_O_18_82_1295_166,P19,Office,wireless connection,phone,3
+1497,P19_O_20_168_1269_240,P19,Office,change of hand,key,2
+1498,P19_O_20_168_1269_240,P19,Office,take back,key,2
+1499,P19_O_20_168_1269_240,P19,Office,place on,key,2
+1500,P19_O_20_168_1269_240,P19,Office,change of location,key,2
+1501,P19_O_20_168_1269_240,P19,Office,other person needs not to be present,key,2
+1502,P19_O_20_168_1269_240,P19,Office,hold to,key,2
+1503,P19_O_23_242_1286_297,P19,Office,hold to,card,1
+1504,P19_O_23_242_1286_297,P19,Office,leave there,card,1
+1505,P19_O_23_242_1286_297,P19,Office,change of location,card,1
+1506,P19_O_23_242_1286_297,P19,Office,change of hand,card,1
+1507,P19_O_26_299_1190_348,P19,Office,swipe,watch,4
+1508,P19_O_26_299_1190_348,P19,Office,change of location,watch,4
+1509,P19_O_26_299_1190_348,P19,Office,wireless connection\cloud,watch,4
+1510,P19_O_26_299_1190_348,P19,Office,wireless connection,watch,4
+1511,P19_O_26_299_1190_348,P19,Office,no change of hand,watch,4
+1512,P19_O_28_353_1304_430,P19,Office,insert,pen,6
+1513,P19_O_28_353_1304_430,P19,Office,change of location,pen,6
+1514,P19_O_28_353_1304_430,P19,Office,take back,pen,6
+1515,P19_O_28_353_1304_430,P19,Office,change of hand,pen,6
+1516,P19_O_28_353_1304_430,P19,Office,disposable,pen,6
+1517,P19_O_29_440_838_490,P19,Office,other person needs not to be present,tissue,5
+1518,P19_O_29_440_838_490,P19,Office,change of location,tissue,5
+1519,P19_O_29_440_838_490,P19,Office,change of hand,tissue,5
+1520,P19_O_29_440_838_490,P19,Office,hold to,tissue,5
+1521,P20_O_91_25_1600_203,P20,Office,no change of hand,phone,4
+1522,P20_O_91_25_1600_203,P20,Office,insecure,phone,4
+1523,P20_O_91_25_1600_203,P20,Office,no benefit / no added value,phone,4
+1524,P20_O_91_25_1600_203,P20,Office,wireless connection\messenger,phone,4
+1525,P20_O_91_25_1600_203,P20,Office,no change of location,phone,4
+1526,P20_O_94_210_1591_321,P20,Office,leave there,key,1
+1527,P20_O_94_210_1591_321,P20,Office,secure,key,1
+1528,P20_O_94_210_1591_321,P20,Office,change of location,key,1
+1529,P20_O_94_210_1591_321,P20,Office,take back,key,1
+1530,P20_O_94_210_1591_321,P20,Office,personal object,key,1
+1531,P20_O_94_210_1591_321,P20,Office,additional device needed,key,1
+1532,P20_O_94_210_1591_321,P20,Office,other,key,1
+1533,P20_O_94_210_1591_321,P20,Office,change of hand,key,1
+1534,P20_O_92_330_1202_403,P20,Office,change of location,card,2
+1535,P20_O_92_330_1202_403,P20,Office,leave there,card,2
+1536,P20_O_92_330_1202_403,P20,Office,data deleted after single use,card,2
+1537,P20_O_92_330_1202_403,P20,Office,insert,card,2
+1538,P20_O_92_330_1202_403,P20,Office,no change of hand,card,2
+1539,P20_O_90_416_1377_448,P20,Office,no change of location,watch,5
+1540,P20_O_90_416_1377_448,P20,Office,wireless connection,watch,5
+1541,P20_O_90_416_1377_448,P20,Office,no change of hand,watch,5
+1542,P20_O_94_456_1491_529,P20,Office,take back,pen,3
+1543,P20_O_94_456_1491_529,P20,Office,change of hand,pen,3
+1544,P20_O_94_456_1491_529,P20,Office,change of location,pen,3
+1545,P20_O_94_456_1491_529,P20,Office,pointing,pen,3
+1546,P20_O_88_535_1026_703,P20,Office,throw away,tissue,6
+1547,P20_O_88_535_1026_703,P20,Office,change of hand,tissue,6
+1548,P20_O_88_535_1026_703,P20,Office,object defect after single use,tissue,6
+1549,P20_O_88_535_1026_703,P20,Office,disposable,tissue,6
+1550,P20_O_88_535_1026_703,P20,Office,imprint,tissue,6
+1551,P20_O_88_535_1026_703,P20,Office,change of location,tissue,6
+1552,P21_O_70_52_932_139,P21,Office,no change of hand,phone,3
+1553,P21_O_70_52_932_139,P21,Office,photo,phone,3
+1554,P21_O_70_52_932_139,P21,Office,at hand,phone,3
+1555,P21_O_70_52_932_139,P21,Office,swipe,phone,3
+1556,P21_O_70_52_932_139,P21,Office,no change of location,phone,3
+1557,P21_O_68_153_512_182,P21,Office,no change of hand,key,5
+1558,P21_O_68_153_512_182,P21,Office,hologram,key,5
+1559,P21_O_68_153_512_182,P21,Office,no change of location,key,5
+1560,P21_O_68_153_512_182,P21,Office,voice command,key,5
+1561,P21_O_75_193_1485_298,P21,Office,change of hand,card,1
+1562,P21_O_75_193_1485_298,P21,Office,additional device needed,card,1
+1563,P21_O_75_193_1485_298,P21,Office,drag through,card,1
+1564,P21_O_75_193_1485_298,P21,Office,change of location,card,1
+1565,P21_O_75_193_1485_298,P21,Office,swipe,card,1
+1566,P21_O_77_306_1470_371,P21,Office,no change of hand,watch,4
+1567,P21_O_77_306_1470_371,P21,Office,no change of location,watch,4
+1568,P21_O_77_306_1470_371,P21,Office,voice command,watch,4
+1569,P21_O_77_306_1470_371,P21,Office,swipe,watch,4
+1570,P21_O_82_381_1337_451,P21,Office,no change of hand,pen,2
+1571,P21_O_82_381_1337_451,P21,Office,writing,pen,2
+1572,P21_O_82_381_1337_451,P21,Office,no change of location,pen,2
+1573,P21_O_82_381_1337_451,P21,Office,hologram,pen,2
+1574,P21_O_82_381_1337_451,P21,Office,other,pen,2
+1575,P21_O_82_381_1337_451,P21,Office,swipe,pen,2
+1576,P21_O_87_463_500_550,P21,Office,swipe,tissue,6
+1577,P21_O_87_463_500_550,P21,Office,voice command,tissue,6
+1578,P21_O_87_463_500_550,P21,Office,no change of location,tissue,6
+1579,P21_O_87_463_500_550,P21,Office,no change of hand,tissue,6
+1580,P22_O_226_74_1649_154,P22,Office,cable,phone,1
+1581,P22_O_226_74_1649_154,P22,Office,no change of location,phone,1
+1582,P22_O_226_74_1649_154,P22,Office,wireless connection\messenger,phone,1
+1583,P22_O_226_74_1649_154,P22,Office,no change of hand,phone,1
+1584,P22_O_226_164_1683_230,P22,Office,insert,key,5
+1585,P22_O_226_164_1683_230,P22,Office,change of hand,key,5
+1586,P22_O_226_164_1683_230,P22,Office,change of location,key,5
+1587,P22_O_226_164_1683_230,P22,Office,take back,key,5
+1588,P22_O_228_236_1469_311,P22,Office,insert,card,4
+1589,P22_O_228_236_1469_311,P22,Office,change of location,card,4
+1590,P22_O_228_236_1469_311,P22,Office,change of hand,card,4
+1591,P22_O_228_236_1469_311,P22,Office,take back,card,4
+1592,P22_O_228_327_1649_415,P22,Office,wireless connection\messenger,watch,2
+1593,P22_O_228_327_1649_415,P22,Office,hold to,watch,2
+1594,P22_O_228_327_1649_415,P22,Office,wireless connection,watch,2
+1595,P22_O_228_327_1649_415,P22,Office,no change of location,watch,2
+1596,P22_O_228_327_1649_415,P22,Office,no change of hand,watch,2
+1597,P22_O_220_421_1631_499,P22,Office,change of location,pen,3
+1598,P22_O_220_421_1631_499,P22,Office,change of hand,pen,3
+1599,P22_O_220_421_1631_499,P22,Office,insert,pen,3
+1600,P22_O_220_421_1631_499,P22,Office,leave there,pen,3
+1601,P22_O_192_510_1450_578,P22,Office,throw away,tissue,6
+1602,P22_O_192_510_1450_578,P22,Office,change of hand,tissue,6
+1603,P22_O_192_510_1450_578,P22,Office,hologram,tissue,6
+1604,P22_O_192_510_1450_578,P22,Office,disposable,tissue,6
+1605,P22_O_192_510_1450_578,P22,Office,change of location,tissue,6
+1606,P23_O_215_49_1799_294,P23,Office,change of location,phone,2
+1607,P23_O_215_49_1799_294,P23,Office,no change of hand,phone,2
+1608,P23_O_215_49_1799_294,P23,Office,hold to,phone,2
+1609,P23_O_222_307_1594_373,P23,Office,change of location,watch,6
+1610,P23_O_222_307_1594_373,P23,Office,neg wearable,watch,6
+1611,P23_O_222_307_1594_373,P23,Office,no change of hand,watch,6
+1612,P23_O_222_307_1594_373,P23,Office,place on,watch,6
+1613,P23_O_239_395_1297_448,P23,Office,take back,pen,2
+1614,P23_O_239_395_1297_448,P23,Office,insert,pen,2
+1615,P23_O_239_395_1297_448,P23,Office,change of hand,pen,2
+1616,P23_O_239_395_1297_448,P23,Office,change of location,pen,2
+1617,P23_O_233_472_1553_636,P23,Office,leave there,tissue,1
+1618,P23_O_233_472_1553_636,P23,Office,change of hand,tissue,1
+1619,P23_O_233_472_1553_636,P23,Office,change of location,tissue,1
+1620,P23_O_233_472_1553_636,P23,Office,throw away,tissue,1
+1621,P23_O_233_472_1553_636,P23,Office,place on,tissue,1
+1622,P24_O_59_83_1538_171,P24,Office,wireless connection\cloud,phone,1
+1623,P24_O_59_83_1538_171,P24,Office,multifunctional,phone,1
+1624,P24_O_59_83_1538_171,P24,Office,wireless connection,phone,1
+1625,P24_O_59_83_1538_171,P24,Office,no change of hand,phone,1
+1626,P24_O_59_83_1538_171,P24,Office,no change of location,phone,1
+1627,P24_O_61_178_1302_263,P24,Office,no change of hand,key,5
+1628,P24_O_61_178_1302_263,P24,Office,no change of location,key,5
+1629,P24_O_61_178_1302_263,P24,Office,place next,key,5
+1630,P24_O_61_178_1302_263,P24,Office,wireless connection,key,5
+1631,P24_O_61_178_1302_263,P24,Office,touch,key,5
+1632,P24_O_53_269_1087_340,P24,Office,wireless connection\cloud,card,2
+1633,P24_O_53_269_1087_340,P24,Office,wireless connection,card,2
+1634,P24_O_53_269_1087_340,P24,Office,place next,card,2
+1635,P24_O_53_269_1087_340,P24,Office,change of hand,card,2
+1636,P24_O_53_269_1087_340,P24,Office,change of location,card,2
+1637,P24_O_53_269_1087_340,P24,Office,take back,card,2
+1638,P24_O_53_344_1450_423,P24,Office,at hand depending on location,watch,3
+1639,P24_O_53_344_1450_423,P24,Office,wireless connection,watch,3
+1640,P24_O_53_344_1450_423,P24,Office,no change of hand,watch,3
+1641,P24_O_53_344_1450_423,P24,Office,tab on object,watch,3
+1642,P24_O_53_344_1450_423,P24,Office,no change of location,watch,3
+1643,P24_O_53_425_802_506,P24,Office,change of location,pen,4
+1644,P24_O_53_425_802_506,P24,Office,pointing,pen,4
+1645,P24_O_53_425_802_506,P24,Office,place next,pen,4
+1646,P24_O_53_425_802_506,P24,Office,no change of hand,pen,4
+1647,P24_O_53_425_802_506,P24,Office,tab on object\button,pen,4
+1648,P24_O_61_510_1199_662,P24,Office,other person needs not to be present,tissue,6
+1649,P24_O_61_510_1199_662,P24,Office,place next,tissue,6
+1650,P24_O_61_510_1199_662,P24,Office,change of location,tissue,6
+1651,P24_O_61_510_1199_662,P24,Office,no change of hand,tissue,6
+1652,P25_O_64_64_1297_158,P25,Office,no change of location,phone,1
+1653,P25_O_64_64_1297_158,P25,Office,wireless connection,phone,1
+1654,P25_O_64_64_1297_158,P25,Office,wireless connection\messenger,phone,1
+1655,P25_O_64_64_1297_158,P25,Office,no change of hand,phone,1
+1656,P25_O_64_64_1297_158,P25,Office,no usage / no sense,phone,1
+1657,P25_O_66_169_1571_232,P25,Office,take back,key,6
+1658,P25_O_66_169_1571_232,P25,Office,change of location,key,6
+1659,P25_O_66_169_1571_232,P25,Office,uncomfortable,key,6
+1660,P25_O_66_169_1571_232,P25,Office,insert,key,6
+1661,P25_O_66_169_1571_232,P25,Office,no change of hand,key,6
+1662,P25_O_70_247_1529_332,P25,Office,no change of hand,card,2
+1663,P25_O_70_247_1529_332,P25,Office,place on,card,2
+1664,P25_O_70_247_1529_332,P25,Office,hologram,card,2
+1665,P25_O_70_247_1529_332,P25,Office,no change of location,card,2
+1666,P25_O_68_335_728_394,P25,Office,no change of location,watch,4
+1667,P25_O_68_335_728_394,P25,Office,wireless connection\messenger,watch,4
+1668,P25_O_68_335_728_394,P25,Office,no change of hand,watch,4
+1669,P25_O_68_335_728_394,P25,Office,wireless connection,watch,4
+1670,P25_O_66_409_1571_503,P25,Office,change of hand,pen,5
+1671,P25_O_66_409_1571_503,P25,Office,take back,pen,5
+1672,P25_O_66_409_1571_503,P25,Office,uncomfortable,pen,5
+1673,P25_O_66_409_1571_503,P25,Office,change of location,pen,5
+1674,P25_O_66_409_1571_503,P25,Office,magnetically attached,pen,5
+1675,P25_O_63_508_1462_621,P25,Office,unfolded,tissue,2
+1676,P25_O_63_508_1462_621,P25,Office,no change of hand,tissue,2
+1677,P25_O_63_508_1462_621,P25,Office,wireless connection,tissue,2
+1678,P25_O_63_508_1462_621,P25,Office,no change of location,tissue,2
+1679,P25_O_63_508_1462_621,P25,Office,place on,tissue,2
+1680,P26_O_78_50_1734_191,P26,Office,practical,phone,3
+1681,P26_O_78_50_1734_191,P26,Office,no change of hand,phone,3
+1682,P26_O_78_50_1734_191,P26,Office,insecure,phone,3
+1683,P26_O_78_50_1734_191,P26,Office,no change of location,phone,3
+1684,P26_O_78_50_1734_191,P26,Office,wireless connection\messenger,phone,3
+1685,P26_O_65_203_1718_319,P26,Office,change of location,key,1
+1686,P26_O_65_203_1718_319,P26,Office,secure,key,1
+1687,P26_O_65_203_1718_319,P26,Office,change of hand,key,1
+1688,P26_O_63_321_1612_372,P26,Office,small / handy,card,4
+1689,P26_O_63_321_1612_372,P26,Office,change of hand,card,4
+1690,P26_O_63_321_1612_372,P26,Office,place on,card,4
+1691,P26_O_63_321_1612_372,P26,Office,change of location,card,4
+1692,P26_O_63_321_1612_372,P26,Office,take back,card,4
+1693,P26_O_63_321_1612_372,P26,Office,simple,card,4
+1694,P26_O_67_380_1114_445,P26,Office,no change of hand,watch,5
+1695,P26_O_67_380_1114_445,P26,Office,wireless connection\messenger,watch,5
+1696,P26_O_67_380_1114_445,P26,Office,no change of location,watch,5
+1697,P26_O_65_459_1171_555,P26,Office,wireless connection,pen,2
+1698,P26_O_65_459_1171_555,P26,Office,change of hand,pen,2
+1699,P26_O_65_459_1171_555,P26,Office,secure,pen,2
+1700,P26_O_65_459_1171_555,P26,Office,insert,pen,2
+1701,P26_O_65_459_1171_555,P26,Office,no change of location,pen,2
+1702,P26_O_65_459_1171_555,P26,Office,no change of hand,pen,2
+1703,P26_O_65_459_1171_555,P26,Office,change of location,pen,2
+1704,P26_O_59_565_884_628,P26,Office,take back,tissue,6
+1705,P26_O_59_565_884_628,P26,Office,change of hand,tissue,6
+1706,P26_O_59_565_884_628,P26,Office,place on,tissue,6
+1707,P26_O_59_565_884_628,P26,Office,change of location,tissue,6
+1708,P27_O_98_75_1111_166,P27,Office,no change of location,phone,1
+1709,P27_O_98_75_1111_166,P27,Office,wireless connection\messenger,phone,1
+1710,P27_O_98_75_1111_166,P27,Office,no change of hand,phone,1
+1711,P27_O_98_75_1111_166,P27,Office,simple,phone,1
+1712,P27_O_92_187_1608_291,P27,Office,additional device needed,key,6
+1713,P27_O_92_187_1608_291,P27,Office,change of hand,key,6
+1714,P27_O_92_187_1608_291,P27,Office,insert,key,6
+1715,P27_O_92_187_1608_291,P27,Office,take back,key,6
+1716,P27_O_92_187_1608_291,P27,Office,change of location,key,6
+1717,P27_O_98_297_1183_354,P27,Office,change of location,card,4
+1718,P27_O_98_297_1183_354,P27,Office,scan,card,4
+1719,P27_O_98_297_1183_354,P27,Office,change of hand,card,4
+1720,P27_O_75_368_936_460,P27,Office,wireless connection\messenger,watch,2
+1721,P27_O_75_368_936_460,P27,Office,no change of location,watch,2
+1722,P27_O_75_368_936_460,P27,Office,no change of hand,watch,2
+1723,P27_O_98_470_1770_524,P27,Office,no change of location,pen,3
+1724,P27_O_98_470_1770_524,P27,Office,wireless connection,pen,3
+1725,P27_O_98_470_1770_524,P27,Office,no change of hand,pen,3
+1726,P27_O_104_553_1404_823,P27,Office,change of location,tissue,5
+1727,P27_O_104_553_1404_823,P27,Office,fast / quick,tissue,5
+1728,P27_O_104_553_1404_823,P27,Office,take back,tissue,5
+1729,P27_O_104_553_1404_823,P27,Office,touch,tissue,5
+1730,P27_O_104_553_1404_823,P27,Office,place on,tissue,5
+1731,P27_O_104_553_1404_823,P27,Office,change of hand,tissue,5
+1732,P28_O_94_90_1240_154,P28,Office,no change of location,phone,2
+1733,P28_O_94_90_1240_154,P28,Office,no change of hand,phone,2
+1734,P28_O_94_90_1240_154,P28,Office,wireless connection\messenger,phone,2
+1735,P28_O_91_168_1597_249,P28,Office,change of location,key,3
+1736,P28_O_91_168_1597_249,P28,Office,additional device needed,key,3
+1737,P28_O_91_168_1597_249,P28,Office,insert,key,3
+1738,P28_O_91_168_1597_249,P28,Office,no change of hand,key,3
+1739,P28_O_87_260_1290_334,P28,Office,change of location,card,4
+1740,P28_O_87_260_1290_334,P28,Office,insert,card,4
+1741,P28_O_87_260_1290_334,P28,Office,change of hand,card,4
+1742,P28_O_91_345_980_413,P28,Office,no change of hand,watch,6
+1743,P28_O_91_345_980_413,P28,Office,no change of location,watch,6
+1744,P28_O_91_345_980_413,P28,Office,wireless connection\cloud,watch,6
+1745,P28_O_91_345_980_413,P28,Office,wireless connection,watch,6
+1746,P28_O_85_417_1348_500,P28,Office,change of hand,pen,5
+1747,P28_O_85_417_1348_500,P28,Office,pointing,pen,5
+1748,P28_O_85_417_1348_500,P28,Office,change of location,pen,5
+1749,P28_O_85_417_1348_500,P28,Office,take back,pen,5
+1750,P28_O_87_513_1003_665,P28,Office,touch,tissue,1
+1751,P28_O_87_513_1003_665,P28,Office,pointing,tissue,1
+1752,P28_O_87_513_1003_665,P28,Office,no change of hand,tissue,1
+1753,P28_O_87_513_1003_665,P28,Office,no change of location,tissue,1
+1754,P29_O_60_80_1674_178,P29,Office,take back,phone,2
+1755,P29_O_60_80_1674_178,P29,Office,wireless connection\cloud,phone,2
+1756,P29_O_60_80_1674_178,P29,Office,wireless connection,phone,2
+1757,P29_O_60_80_1674_178,P29,Office,place on,phone,2
+1758,P29_O_60_80_1674_178,P29,Office,change of hand,phone,2
+1759,P29_O_60_80_1674_178,P29,Office,insecure,phone,2
+1760,P29_O_60_80_1674_178,P29,Office,change of location,phone,2
+1761,P29_O_87_191_1148_242,P29,Office,place on,key,5
+1762,P29_O_87_191_1148_242,P29,Office,take back,key,5
+1763,P29_O_87_191_1148_242,P29,Office,change of hand,key,5
+1764,P29_O_87_191_1148_242,P29,Office,change of location,key,5
+1765,P29_O_82_243_1680_329,P29,Office,change of hand,card,1
+1766,P29_O_82_243_1680_329,P29,Office,change of location,card,1
+1767,P29_O_82_243_1680_329,P29,Office,leave there,card,1
+1768,P29_O_87_339_1599_431,P29,Office,other person needs to be present,watch,2
+1769,P29_O_87_339_1599_431,P29,Office,change of location,watch,2
+1770,P29_O_87_339_1599_431,P29,Office,no change of hand,watch,2
+1771,P29_O_87_339_1599_431,P29,Office,hold to,watch,2
+1772,P29_O_83_433_1438_510,P29,Office,change of location,pen,4
+1773,P29_O_83_433_1438_510,P29,Office,take back,pen,4
+1774,P29_O_83_433_1438_510,P29,Office,magnetically attached,pen,4
+1775,P29_O_83_433_1438_510,P29,Office,change of hand,pen,4
+1776,P29_O_88_520_1466_760,P29,Office,place on,tissue,6
+1777,P29_O_88_520_1466_760,P29,Office,change of hand,tissue,6
+1778,P29_O_88_520_1466_760,P29,Office,object defect after single use,tissue,6
+1779,P29_O_88_520_1466_760,P29,Office,change of location,tissue,6
+1780,P29_O_88_520_1466_760,P29,Office,throw away,tissue,6
+1781,P29_O_88_520_1466_760,P29,Office,disposable,tissue,6
+1782,P30_O_72_83_1771_206,P30,Office,no change of hand,phone,6
+1783,P30_O_72_83_1771_206,P30,Office,personal object,phone,6
+1784,P30_O_72_83_1771_206,P30,Office,no change of location,phone,6
+1785,P30_O_72_83_1771_206,P30,Office,cable,phone,6
+1786,P30_O_76_218_1660_286,P30,Office,take back,key,5
+1787,P30_O_76_218_1660_286,P30,Office,insert,key,5
+1788,P30_O_76_218_1660_286,P30,Office,change of location,key,5
+1789,P30_O_76_218_1660_286,P30,Office,change of hand,key,5
+1790,P30_O_76_299_1643_355,P30,Office,change of location,card,1
+1791,P30_O_76_299_1643_355,P30,Office,place on,card,1
+1792,P30_O_76_299_1643_355,P30,Office,change of hand,card,1
+1793,P30_O_76_299_1643_355,P30,Office,take back,card,1
+1794,P30_O_70_359_1497_465,P30,Office,no change of hand,watch,4
+1795,P30_O_70_359_1497_465,P30,Office,wireless connection,watch,4
+1796,P30_O_70_359_1497_465,P30,Office,change of location,watch,4
+1797,P30_O_70_359_1497_465,P30,Office,neg wearable,watch,4
+1798,P30_O_68_478_1376_582,P30,Office,change of hand,pen,3
+1799,P30_O_68_478_1376_582,P30,Office,insert,pen,3
+1800,P30_O_68_478_1376_582,P30,Office,take back,pen,3
+1801,P30_O_68_478_1376_582,P30,Office,change of location,pen,3
+1802,P30_O_79_588_1217_801,P30,Office,change of hand,tissue,1
+1803,P30_O_79_588_1217_801,P30,Office,throw away,tissue,1
+1804,P30_O_79_588_1217_801,P30,Office,leave there,tissue,1
+1805,P30_O_79_588_1217_801,P30,Office,place on,tissue,1
+1806,P30_O_79_588_1217_801,P30,Office,change of location,tissue,1
