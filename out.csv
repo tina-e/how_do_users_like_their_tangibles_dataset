@@ -3,7 +3,7 @@
 1,P09_C_385_398_1440_494,P09,Copyshop,slow,phone,4
 2,P09_C_385_398_1440_494,P09,Copyshop,secure,phone,4
 3,P09_C_385_398_1440_494,P09,Copyshop,cable,phone,4
-4,P09_C_385_398_1440_494,P09,Copyshop,insecure,phone,4
+4,P09_C_385_398_1440_494,P09,Copyshop,unsecure,phone,4
 5,P09_C_383_532_2266_615,P09,Copyshop,wireless connection\cloud,key,3
 6,P09_C_369_634_1815_720,P09,Copyshop,comfortable,card,2
 7,P09_C_369_634_1815_720,P09,Copyshop,at hand,card,2
@@ -249,7 +249,7 @@
 247,P08_C_154_823_1950_970,P08,Copyshop,unfolded,tissue,6
 248,P08_C_154_823_1950_970,P08,Copyshop,small / handy,tissue,6
 249,P08_C_154_823_1950_970,P08,Copyshop,hold to,tissue,6
-250,P08_C_154_823_1950_970,P08,Copyshop,insecure,tissue,6
+250,P08_C_154_823_1950_970,P08,Copyshop,unsecure,tissue,6
 251,P08_C_154_823_1950_970,P08,Copyshop,low value,tissue,6
 252,P08_C_154_823_1950_970,P08,Copyshop,disposable,tissue,6
 253,P30_C_839_21_1620_93,P30,Copyshop,place on,,
@@ -1059,7 +1059,7 @@
 1057,P30_T_114_93_1824_197,P30,TV,leave there,phone,1
 1058,P30_T_114_199_1415_280,P30,TV,change of location,key,5
 1059,P30_T_114_199_1415_280,P30,TV,insert,key,5
-1060,P30_T_114_199_1415_280,P30,TV,insecure,key,5
+1060,P30_T_114_199_1415_280,P30,TV,unsecure,key,5
 1061,P30_T_114_199_1415_280,P30,TV,leave there,key,5
 1062,P30_T_114_286_1047_370,P30,TV,leave there,card,3
 1063,P30_T_114_286_1047_370,P30,TV,change of location,card,3
@@ -1421,7 +1421,7 @@
 1419,P16_O_606_170_1446_415,P16,Office,change of location,key,4
 1420,P16_O_606_170_1446_415,P16,Office,change of hand,key,4
 1421,P16_O_606_170_1446_415,P16,Office,take back,key,4
-1422,P16_O_606_170_1446_415,P16,Office,insecure,key,4
+1422,P16_O_606_170_1446_415,P16,Office,unsecure,key,4
 1423,P16_O_606_170_1446_415,P16,Office,multifunctional,key,4
 1424,P16_O_606_170_1446_415,P16,Office,insert,key,4
 1425,P16_O_42_232_587_281,P16,Office,no change of hand,card,4
@@ -1430,7 +1430,7 @@
 1428,P16_O_42_232_587_281,P16,Office,change of hand,card,4
 1429,P16_O_42_232_587_281,P16,Office,insert,card,4
 1430,P16_O_47_293_597_380,P16,Office,no change of hand,watch,1
-1431,P16_O_47_293_597_380,P16,Office,insecure,watch,1
+1431,P16_O_47_293_597_380,P16,Office,unsecure,watch,1
 1432,P16_O_47_293_597_380,P16,Office,wireless connection,watch,1
 1433,P16_O_47_293_597_380,P16,Office,no change of location,watch,1
 1434,P16_O_54_431_1427_510,P16,Office,change of location,pen,1
@@ -1521,7 +1521,7 @@
 1519,P19_O_29_440_838_490,P19,Office,change of hand,tissue,5
 1520,P19_O_29_440_838_490,P19,Office,hold to,tissue,5
 1521,P20_O_91_25_1600_203,P20,Office,no change of hand,phone,4
-1522,P20_O_91_25_1600_203,P20,Office,insecure,phone,4
+1522,P20_O_91_25_1600_203,P20,Office,unsecure,phone,4
 1523,P20_O_91_25_1600_203,P20,Office,no benefit / no added value,phone,4
 1524,P20_O_91_25_1600_203,P20,Office,wireless connection\messenger,phone,4
 1525,P20_O_91_25_1600_203,P20,Office,no change of location,phone,4
@@ -1681,7 +1681,7 @@
 1679,P25_O_63_508_1462_621,P25,Office,place on,tissue,2
 1680,P26_O_78_50_1734_191,P26,Office,practical,phone,3
 1681,P26_O_78_50_1734_191,P26,Office,no change of hand,phone,3
-1682,P26_O_78_50_1734_191,P26,Office,insecure,phone,3
+1682,P26_O_78_50_1734_191,P26,Office,unsecure,phone,3
 1683,P26_O_78_50_1734_191,P26,Office,no change of location,phone,3
 1684,P26_O_78_50_1734_191,P26,Office,wireless connection\messenger,phone,3
 1685,P26_O_65_203_1718_319,P26,Office,change of location,key,1
@@ -1758,7 +1758,7 @@
 1756,P29_O_60_80_1674_178,P29,Office,wireless connection,phone,2
 1757,P29_O_60_80_1674_178,P29,Office,place on,phone,2
 1758,P29_O_60_80_1674_178,P29,Office,change of hand,phone,2
-1759,P29_O_60_80_1674_178,P29,Office,insecure,phone,2
+1759,P29_O_60_80_1674_178,P29,Office,unsecure,phone,2
 1760,P29_O_60_80_1674_178,P29,Office,change of location,phone,2
 1761,P29_O_87_191_1148_242,P29,Office,place on,key,5
 1762,P29_O_87_191_1148_242,P29,Office,take back,key,5
